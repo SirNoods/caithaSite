@@ -1,27 +1,14 @@
 {
   "vaultName": "A Long Story",
-  "lastExport": 1714757176597,
+  "lastExport": 1714757857803,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title sizing-readable check-color check-bg wotc-beyond",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "_attachments/arcanebondwappen.png",
-    "_attachments/caitha_continents.png",
-    "_attachments/caitha_g_thumbnail.png",
-    "_attachments/goldencrown.png",
-    "_attachments/highstorms.png.webp",
-    "_attachments/kvarn.png",
-    "_attachments/logo.png",
-    "_attachments/mountainram.webp",
-    "_attachments/placeholder.png",
-    "_attachments/ram.png",
-    "_attachments/ram 1.png",
-    "_attachments/ram 2.png",
     "Economics/currency/Dwarven Crowns.md",
     "Fantastical Elements/Highstorms.md",
     "Fauna/Mammals/Mountain Ram.md",
-    "Fauna/Mountain Ram 1.md",
     "Geographic Elements/Continents.md",
     "Historical Elements/Legends and Tales/The Druidic Sacrifice.md",
     "Historical Elements/Legends and Tales.md",
@@ -49,8 +36,8 @@
     "lib/media/highstorms.png.webp",
     "lib/media/ram.png",
     "lib/media/ram-2.png",
-    "lib/media/mountainram.webp",
     "lib/media/caitha_continents.png",
+    "_attachments/logo.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -116,13 +103,13 @@
   ],
   "fileInfo": {
     "_attachments/logo.png": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 87467,
       "exportedPath": "_attachments/logo.png",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 1628,
       "exportedPath": "index.html",
       "dependencies": [
@@ -130,7 +117,7 @@
       ]
     },
     "Table of Elements.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 2997,
       "exportedPath": "table-of-elements.html",
       "dependencies": [
@@ -138,205 +125,205 @@
       ]
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 22441,
+      "modifiedTime": 1714757857803,
+      "sourceSize": 17163,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 2322,
+      "modifiedTime": 1714757857803,
+      "sourceSize": 2272,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 697859,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 4788,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Historical Elements/Legends and Tales/The Druidic Sacrifice.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 2764,
       "exportedPath": "historical-elements/legends-and-tales/the-druidic-sacrifice.html",
       "dependencies": []
     },
     "Historical Elements/Legends and Tales.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 263,
       "exportedPath": "historical-elements/legends-and-tales.html",
       "dependencies": []
     },
     "Timelines/Time and the Calendar.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 2545,
       "exportedPath": "timelines/time-and-the-calendar.html",
       "dependencies": []
     },
     "Economics/currency/Dwarven Crowns.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 2409,
       "exportedPath": "economics/currency/dwarven-crowns.html",
       "dependencies": [
@@ -344,19 +331,19 @@
       ]
     },
     "Maps/Maps.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 448,
       "exportedPath": "maps/maps.html",
       "dependencies": []
     },
     "lib/media/goldencrown.png": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 73569,
       "exportedPath": "lib/media/goldencrown.png",
       "dependencies": []
     },
     "Geographic Elements/Continents.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 1251,
       "exportedPath": "geographic-elements/continents.html",
       "dependencies": [
@@ -364,25 +351,25 @@
       ]
     },
     "lib/media/caitha_continents.png": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 7247407,
       "exportedPath": "lib/media/caitha_continents.png",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Dwarves.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 7894,
       "exportedPath": "player-character-options/ancestries/dwarves.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Orcs.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 4483,
       "exportedPath": "player-character-options/ancestries/orcs.html",
       "dependencies": []
     },
     "Fantastical Elements/Highstorms.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 3434,
       "exportedPath": "fantastical-elements/highstorms.html",
       "dependencies": [
@@ -390,97 +377,97 @@
       ]
     },
     "Player Character Options/Ancestries.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 567,
       "exportedPath": "player-character-options/ancestries.html",
       "dependencies": []
     },
     "lib/media/highstorms.png.webp": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 377096,
       "exportedPath": "lib/media/highstorms.png.webp",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Grippli.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 6753,
       "exportedPath": "player-character-options/ancestries/grippli.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Lizardfolk.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 6284,
       "exportedPath": "player-character-options/ancestries/lizardfolk.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Elves.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 6035,
       "exportedPath": "player-character-options/ancestries/elves.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Gnomes.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 6907,
       "exportedPath": "player-character-options/ancestries/gnomes.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Goblins.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 4684,
       "exportedPath": "player-character-options/ancestries/goblins.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Humans.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 5092,
       "exportedPath": "player-character-options/ancestries/humans.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Kanee.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 7395,
       "exportedPath": "player-character-options/ancestries/kanee.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Mossin (Halflings).md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 6986,
       "exportedPath": "player-character-options/ancestries/mossin-(halflings).html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Automatons.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 6262,
       "exportedPath": "player-character-options/ancestries/automatons.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Fleshwarps.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 4513,
       "exportedPath": "player-character-options/ancestries/fleshwarps.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Leshy.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 3036,
       "exportedPath": "player-character-options/ancestries/leshy.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Poppets.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 8670,
       "exportedPath": "player-character-options/ancestries/poppets.html",
       "dependencies": []
     },
     "Player Character Options/Ancestries/Vanara.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 5661,
       "exportedPath": "player-character-options/ancestries/vanara.html",
       "dependencies": []
     },
     "Fauna/Mammals/Mountain Ram.md": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 3152,
       "exportedPath": "fauna/mammals/mountain-ram.html",
       "dependencies": [
@@ -489,97 +476,15 @@
       ]
     },
     "lib/media/ram.png": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 395008,
       "exportedPath": "lib/media/ram.png",
       "dependencies": []
     },
-    "Fauna/Mountain Ram 1.md": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 3173,
-      "exportedPath": "fauna/mountain-ram-1.html",
-      "dependencies": [
-        "lib/media/ram.png",
-        "lib/media/mountainram.webp",
-        "lib/media/ram-2.png"
-      ]
-    },
     "lib/media/ram-2.png": {
-      "modifiedTime": 1714757176597,
+      "modifiedTime": 1714757857803,
       "sourceSize": 395008,
       "exportedPath": "lib/media/ram-2.png",
-      "dependencies": []
-    },
-    "lib/media/mountainram.webp": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 395008,
-      "exportedPath": "lib/media/mountainram.webp",
-      "dependencies": []
-    },
-    "_attachments/arcanebondwappen.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 775992,
-      "exportedPath": "_attachments/arcanebondwappen.png",
-      "dependencies": []
-    },
-    "_attachments/caitha_continents.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 7247407,
-      "exportedPath": "_attachments/caitha_continents.png",
-      "dependencies": []
-    },
-    "_attachments/caitha_g_thumbnail.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 360750,
-      "exportedPath": "_attachments/caitha_g_thumbnail.png",
-      "dependencies": []
-    },
-    "_attachments/goldencrown.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 73569,
-      "exportedPath": "_attachments/goldencrown.png",
-      "dependencies": []
-    },
-    "_attachments/highstorms.png.webp": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 377096,
-      "exportedPath": "_attachments/highstorms.png.webp",
-      "dependencies": []
-    },
-    "_attachments/kvarn.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 514178,
-      "exportedPath": "_attachments/kvarn.png",
-      "dependencies": []
-    },
-    "_attachments/mountainram.webp": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 395008,
-      "exportedPath": "_attachments/mountainram.webp",
-      "dependencies": []
-    },
-    "_attachments/placeholder.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 38667,
-      "exportedPath": "_attachments/placeholder.png",
-      "dependencies": []
-    },
-    "_attachments/ram.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 395008,
-      "exportedPath": "_attachments/ram.png",
-      "dependencies": []
-    },
-    "_attachments/ram 1.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 395008,
-      "exportedPath": "_attachments/ram-1.png",
-      "dependencies": []
-    },
-    "_attachments/ram 2.png": {
-      "modifiedTime": 1714757176597,
-      "sourceSize": 395008,
-      "exportedPath": "_attachments/ram-2.png",
       "dependencies": []
     }
   }
