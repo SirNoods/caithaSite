@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 03 May 2024 17:37:40 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 03 May 2024 17:37:37 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Appearance]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 04 May 2024 10:58:46 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 04 May 2024 10:58:42 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Appearance]]></title><description><![CDATA[ 
  <br>The Dwarves of Caitha are widely credited with creating the first unified currency in the world, laying the foundation for the economy for centuries to come.<br>
 The Dwarven Crown, commonly referred to as just "Crown", the most enduring symbol of trade and wealth. These hexagonal coins, produced in the golden halls of <a data-href="Dhartahl" href="\Dhartahl" class="internal-link" target="_self" rel="noopener">Dhartahl</a> have long been the predominant currency used throughout the diverse regions of Caitha.<br><br>Crowns minted in the forges of Dhartahl are hexagonal with a hexagonal hole in the middle. They are approximately 3.5 centimeters in diameter, and have a 5 mm thick border with fine stripes in the middle. Many coins are simple, but some of the golden coins have a symbol printed on them to commemorate an event or important person.<br>
 <img alt="goldencrown.png" src="\lib\media\goldencrown.png"><br><br>The copper crown (CC), the silver crown (SC) and the golden crown (GC) are the primary denominations of this currency. 10 Copper Crowns make a silver crown, and 10 silver crowns make a golden crown.<br>
@@ -35,7 +35,7 @@ Size: Medium or Small<br>
 Speed: 25ft<br>
 Ability Boosts: Strength, Free<br>
 Ability Flaws: None<br><br>You speak, read and write Common and <a data-href="Utopian" href="\Utopian" class="internal-link" target="_self" rel="noopener">Utopian</a>, and additional languages equal to your INT modifier (if positive).<br><br>You can see in dim light as though it were bright light, so you ignore the&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Conditions.aspx?ID=4" rel="noopener" class="external-link" href="https://2e.aonprd.com/Conditions.aspx?ID=4" target="_blank">concealed</a>&nbsp;condition due to dim light.<br><br>Your body contains an&nbsp;automaton core&nbsp;infused with planar quintessence that grants you power to perform various tasks and houses your soul and life energy. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don't have the typical&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Traits.aspx?ID=35" rel="noopener" class="external-link" href="https://2e.aonprd.com/Traits.aspx?ID=35" target="_blank">construct</a>&nbsp;immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Traits.aspx?ID=128" rel="noopener" class="external-link" href="https://2e.aonprd.com/Traits.aspx?ID=128" target="_blank">positive</a>&nbsp;energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Conditions.aspx?ID=38" rel="noopener" class="external-link" href="https://2e.aonprd.com/Conditions.aspx?ID=38" target="_blank">knocked out</a>&nbsp;and begin&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Conditions.aspx?ID=11" rel="noopener" class="external-link" href="https://2e.aonprd.com/Conditions.aspx?ID=11" target="_blank">dying</a>&nbsp;when reduced to 0 Hit Points.<br><br>Your physiological needs are different than those of living creatures. You don't need to eat or drink. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Conditions.aspx?ID=38" rel="noopener" class="external-link" href="https://2e.aonprd.com/Conditions.aspx?ID=38" target="_blank">unconscious</a>. Much like with sleeping, if you go too long without entering your standby state, you become&nbsp;<a data-tooltip-position="top" aria-label="https://2e.aonprd.com/Conditions.aspx?ID=15" rel="noopener" class="external-link" href="https://2e.aonprd.com/Conditions.aspx?ID=15" target="_blank">fatigued</a>&nbsp;and can't recover until you enter standby for 2 hours.<br><br><a rel="noopener" class="external-link" href="https://2e.aonprd.com/Heritages.aspx?Ancestry=48" target="_blank">https://2e.aonprd.com/Heritages.aspx?Ancestry=48</a>]]></description><link>player-character-options\ancestries\automatons.html</link><guid isPermaLink="false">Player Character Options/Ancestries/Automatons.md</guid><pubDate>Fri, 03 May 2024 10:37:32 GMT</pubDate></item><item><title><![CDATA[Dwarves]]></title><description><![CDATA[ 
- <br><br>The Dwarves are an ancestry that shares a common ancestor with Humans and Gnomes, and that has inhabited the mountainous regions of the world for a long while. They have long been and to this day still are largely organised in Clans, a substitute for families.<br><br><br>Dwarves have a short and stocky build, standing shorter than humans, with wide, compact bodies and burly frames. Both male and female dwarves have evolved to grow thick bears that can act as a filter for the rough and dusty air deep within the mountains. Dwarves can live up to around 350 years old, and is considered an adult at the age of 50.<br><br>The murder of one dwarf by another is seen as the most atrocioous and terrible crime a dwarf can commit. For this reason, there is no death sentence among Dwarvenkind. Instead, murderers are exiled.<br><br>Dwarves don't have classic family constructs, and their last names are the names of their clans. Ofte times, within a clan, many dwarves are already related, so dwarves marry and migrate to other clans if they so please. When two dwarves have a child, it is assigned a so-called protector from their clan, because it is believed to be unhealthy for a child to only ever be raised by their own parents. The protector then takes on a lot of the work that comes with raising said child. A clan's bond is very close, and humans often compare them to large families. <br><br>Dwarves believe in a pantheon of gods and have a rich <a data-tooltip-position="top" aria-label="Dwarvish Mythology" data-href="Dwarvish Mythology" href="\religions\deities\dwarvish-mythology.html" class="internal-link" target="_self" rel="noopener">mythology</a> surrounding them.<br>
+ <br><br>The Dwarves are an ancestry that shares a common ancestor with Humans and Gnomes, and that has inhabited the mountainous regions of the world for a long while. They have long been and to this day still are largely organised in Clans, a substitute for families.<br><br><br>Dwarves have a short and stocky build, standing shorter than humans, with wide, compact bodies and burly frames. Both male and female dwarves have evolved to grow thick bears that can act as a filter for the rough and dusty air deep within the mountains. Dwarves can live up to around 350 years old, and is considered an adult at the age of 50.<br><br>The murder of one dwarf by another is seen as the most atrocioous and terrible crime a dwarf can commit. For this reason, there is no death sentence among Dwarvenkind. Instead, murderers are exiled.<br><br>Dwarves don't have classic family constructs, and their last names are the names of their clans. Ofte times, within a clan, many dwarves are already related, so dwarves marry and migrate to other clans if they so please. When two dwarves have a child, it is assigned a so-called protector from their clan, because it is believed to be unhealthy for a child to only ever be raised by their own parents. The protector then takes on a lot of the work that comes with raising said child. A clan's bond is very close, and humans often compare them to large families. <br><br>Dwarves believe in a pantheon of gods and have a rich <a data-tooltip-position="top" aria-label="Dwarvish Mythology" data-href="Dwarvish Mythology" href="\religious-elements\religions-and-pantheons\dwarvish-mythology.html" class="internal-link" target="_self" rel="noopener">mythology</a> surrounding them.<br>
 In larger cities, priests are usually appointed by the priestly order of their patron god to oversee places of worship. Core values that can be found with any god are good work, and the preservation of ancient dwarvish history.<br><br>Typical foods one would find in dwarven establishments are <a data-href="Ironroot" href="\flora\other\ironroot.html" class="internal-link" target="_self" rel="noopener">Ironroot</a>, goat cheese and bread, the  staples of dwarven food. Living in the mountains, goats are the natural livestock dwarves have domesticated, so goat milk, meat and cheese are the most common ingredients in their cuisine. Ironroot, a native plant to the mountains, chicory, wheat grass and mushrooms even grow underground, and compliment their foods fabulously.<br><br>Dwarves typically introduce themselves by their first name and clan, followed by any titles or honorifics they might have. Their names usually contain hard consonants and typically are 2-3 syllables long.<br><br>First Names<br>
 Agna, Bodill, Dolgrin, Edrukk, Grunyar, Ingra, Kazmuk, Kotri, Lupp, Morgrym, Rogar, Rusilka, Torra, Yangrit<br>
 Clan Names<br>
@@ -51,7 +51,7 @@ With readily available materials all around them, Dwarves became excellent miner
 With the discovery of fire, metalworking and the trade among tribes, Dwarves formed a large community and complex social structure, with rulers and a system of laws. They also established a writing system, at first occurring only on stone tablets, and on their walls.<br><br><br>The ancient city of <a data-href="Hrotmaerahn" href="\Hrotmaerahn" class="internal-link" target="_self" rel="noopener">Hrotmaerahn</a> (translated literally to "Old Sky Mountain") was the earliest city to emerge from Dwarvenkind.  During the <a data-href="Era of Storms" href="\Era of Storms" class="internal-link" target="_self" rel="noopener">Era of Storms</a>, Hrotmaerahn began to grow rapidly in population as a bastion against the <a data-href="Highstorms" href="\fantastical-elements\highstorms.html" class="internal-link" target="_self" rel="noopener">Highstorms</a> that plagued the surface.<br>
 The exact founding date of Hrotmaerahn has been lost to time. As it grew, Dwarves began to develop trade relationships outside of the city, with other Dwarven cultures and settlements, exchanging knowledge, valuable metals and Stoneworks for goods and resources. With the discovery of <a data-href="Moonstone" href="\resources\gemstones\moonstone.html" class="internal-link" target="_self" rel="noopener">Moonstone</a>, a gemstone that collects and keeps the moons light within for a considerable amount of time, their advancements into the depths of mountains went even further.<br><br>According to Dwarven legend, the discovery of <a data-href="Runebinding" href="\Runebinding" class="internal-link" target="_self" rel="noopener">Runebinding</a> was a fortunate accident. It is said that a group of Dwarves were exploring the depths of a mountain cave near <a data-href="Hrotmaerahn" href="\Hrotmaerahn" class="internal-link" target="_self" rel="noopener">Hrotmaerahn</a> when they came across a peculiar set of glowing symbols etched into the stone. Not knowing what they were, the Dwarves touched the symbols and were immediately infused with magical energy.<br>
 Excited by this newfound power, the Dwarves began to experiment with the symbols, carving them into stone and metal and imbuing them with different magical properties. Over time, they discovered that by combining different runes and binding them to anchors, they could create powerful spells that allowed them to do many things like teleporting, or creating powerful wards and enchantments. Yet another growth spurt in the development and history of the Dwarves.<br>
-As their mastery of Runebinding grew, so too did their reputation as master craftsmen. They began to craft magical artifacts of immense power.<br>]]></description><link>player-character-options\ancestries\dwarves.html</link><guid isPermaLink="false">Player Character Options/Ancestries/Dwarves.md</guid><pubDate>Thu, 02 May 2024 13:23:50 GMT</pubDate></item><item><title><![CDATA[Elves]]></title><description><![CDATA[ 
+As their mastery of Runebinding grew, so too did their reputation as master craftsmen. They began to craft magical artifacts of immense power.<br>]]></description><link>player-character-options\ancestries\dwarves.html</link><guid isPermaLink="false">Player Character Options/Ancestries/Dwarves.md</guid><pubDate>Sat, 04 May 2024 10:50:30 GMT</pubDate></item><item><title><![CDATA[Elves]]></title><description><![CDATA[ 
  <br><br>As an ancient people, elves have seen great change and have the perspective that can come only from watching the arc of history. After the <a data-href="Highstorms" href="\fantastical-elements\highstorms.html" class="internal-link" target="_self" rel="noopener">Highstorms</a> that now encircle the world reached their lands, they were forced to migrate to the far west of <a data-href="Aroa" href="\Aroa" class="internal-link" target="_self" rel="noopener">Aroa</a>, and even <a data-href="Antaris" href="\Antaris" class="internal-link" target="_self" rel="noopener">Antaris</a>. They still struggle to reclaim their ancestral homes.<br>Elves combine otherworldly grace, sharp intellect, and mysterious charm in a way that is practically magnetic to members of other ancestries. <br>Elves are often rather private, steeped in the secrets of their people and kinship groups. They’re slow to build friendships outside their kinsfolk, but for a specific reason: they subtly and deeply attune to their environment and their companions.<br><br><br>Standing slightly taller than the average human, they possess lithe, slender frames that hint at both their grace and agility. Their skin tones range from the pale hues reflective of their northern origins to the rich, deep tones acquired from their southern migrations, mirroring the diverse environments they have traversed.<br>
 Elves gradually adapt to their environment and their companions, and they often take on physical traits reflecting their surroundings. An elf who has dwelled in primeval forests for centuries, for example, might exhibit verdant hair and gnarled fingers, while one who’s lived in a desert might have golden pupils and skin. Elven fashion, like the elves themselves, tends to reflect their surroundings. Elves living in the forests and other wilderness locales wear clothing that plays off the terrain and flora of their homes, while those who live in cities tend to wear the latest fashions.  <br>Elves reach physical adulthood around the age of 20, though they aren’t considered to be fully emotionally mature by other elves until closer to the passing of their first century, once they’ve experienced more, held several occupations, and outlived a generation of shorter-lived people. A typical elf can live to around 600 years old.<br><br>Elves hold deeply seated ideals of individualism, allowing each elf to explore multiple occupations before alighting on a particular pursuit or passion that suits her best. Elves bear notorious grudges against rivals, which elves call ‘ilduliel,' but these antagonistic relationships can sometimes blossom into friendships over time. <br><br>Elvish religion centers around the worship of time and nature, which they perceive as intricately linked forces that shape the cosmos. They venerate the Veil of Aeons, a metaphysical concept representing the flow of time as a veil that separates different epochs but occasionally merges them during pivotal events. Elves believe in preserving the balance between the temporal and natural worlds, and their rituals often involve offerings to the Veil to ensure harmonious transitions and stability. Key deities in their pantheon include:<br>
 <br>Aeluin, the Warden of Stars: Protector of cosmic order and the guide for elves on starlit paths.
@@ -151,7 +151,7 @@ Halflings today are known throughout the world. Claiming no place as their own o
 
 <br>from "A Traveler's Guide to Brurogh", by Casper Mossbane
 
-<br><br><br>Orcs are imposing figures, with muscular builds that speak to their warrior heritage. They typically stand over six feet tall, with green to gray skin that can sometimes carry a bluish hue. Their tusks, emerging from the lower jaw, are a mark of their race, varying in size but always present as a symbol of their strength and ferocity. Their eyes, often gold or red, shine with a depth of wisdom and the fire of their indomitable spirit. They have rough, leathery skin, thick bones and rock hard muscles, making them suited for physically demanding tasks.<br><br>Orcs living in areas with many other races are often perceived as somewhat rude or "standoffish," if not hostile, because they neither ask for help nor offer help, even in times of crisis, and are offended if someone tries to help unsolicited. There are rumors that they steal children, because if an Orc finds a child lost in the forest, they will feed it and - if they cannot find the parents or home - raise and integrate it.<br><br>Central to Orcish society is their spirituality, revolving around the worship of <a data-href="Garrosh" href="\religions\deities\garrosh.html" class="internal-link" target="_self" rel="noopener">Garrosh</a>, a deity of justice and honor. This spirituality guides their daily lives, emphasizing personal growth through adversity and the importance of community responsibility, especially towards children.<br>
+<br><br><br>Orcs are imposing figures, with muscular builds that speak to their warrior heritage. They typically stand over six feet tall, with green to gray skin that can sometimes carry a bluish hue. Their tusks, emerging from the lower jaw, are a mark of their race, varying in size but always present as a symbol of their strength and ferocity. Their eyes, often gold or red, shine with a depth of wisdom and the fire of their indomitable spirit. They have rough, leathery skin, thick bones and rock hard muscles, making them suited for physically demanding tasks.<br><br>Orcs living in areas with many other races are often perceived as somewhat rude or "standoffish," if not hostile, because they neither ask for help nor offer help, even in times of crisis, and are offended if someone tries to help unsolicited. There are rumors that they steal children, because if an Orc finds a child lost in the forest, they will feed it and - if they cannot find the parents or home - raise and integrate it.<br><br>Central to Orcish society is their spirituality, revolving around the worship of <a data-href="Garrosh" href="\religious-elements\deities\garrosh.html" class="internal-link" target="_self" rel="noopener">Garrosh</a>, a deity of justice and honor. This spirituality guides their daily lives, emphasizing personal growth through adversity and the importance of community responsibility, especially towards children.<br>
 Orcish spirituality states that a soul can only grow and become stronger by overcoming the challenges life presents to them. The challenge of supporting or interfering with someone else unsolicited is not only impolite but very hurtful - because you are taking away their chance to grow. Asking for help is something very personal, and doing so could be a way for an Orc to bond or be "too personal/intimate," depending on the existing relationship with the person. Children are an exception - for Orcs, all children are fundamentally the responsibility of the society/community, no matter whose child it is or whether the child is an Orc at all.<br><br>Orcish cuisine is hearty, reflecting their hunting and gathering heritage. Dishes often feature game, roots, and wild vegetables, seasoned with the herbs of the Katarisian forests. A common meal might include roasted boar, forest mushrooms, and a brew made from fermented berries.<br><br>Orcish names sound powerful and imposing, and are usually bestowed upon them in a ceremony by their parents or caretakers. They don't usually carry last names.<br><br>Garthok, Ertok, Nartha, Gnarg, Yargol, Nakgu, Durbul, Garothmuk<br><br>Mechanically, Orcs are the same as on <a data-tooltip-position="top" aria-label="https://2e.aonprd.com/(X(1)S(uircgsflygijk355ocfo0cac))/Heritages.aspx?Ancestry=66&amp;Redirected=1" rel="noopener" class="external-link" href="https://2e.aonprd.com/(X(1)S(uircgsflygijk355ocfo0cac))/Heritages.aspx?Ancestry=66&amp;Redirected=1" target="_blank">aonprd</a><br>Hit points: 10<br>
 Size: Medium<br>
 Speed: 25ft<br>
@@ -198,7 +198,227 @@ If you find something on <a rel="noopener" class="external-link" href="https://2
 <br><a data-href="Fleshwarps" href="\player-character-options\ancestries\fleshwarps.html" class="internal-link" target="_self" rel="noopener">Fleshwarps</a>
 <br><a data-href="Leshy" href="\player-character-options\ancestries\leshy.html" class="internal-link" target="_self" rel="noopener">Leshy</a>
 <br><a data-href="Poppets" href="\player-character-options\ancestries\poppets.html" class="internal-link" target="_self" rel="noopener">Poppets</a>
-]]></description><link>player-character-options\ancestries.html</link><guid isPermaLink="false">Player Character Options/Ancestries.md</guid><pubDate>Fri, 03 May 2024 11:33:47 GMT</pubDate></item><item><title><![CDATA[Time and the Calendar]]></title><description><![CDATA[ 
+]]></description><link>player-character-options\ancestries.html</link><guid isPermaLink="false">Player Character Options/Ancestries.md</guid><pubDate>Fri, 03 May 2024 11:33:47 GMT</pubDate></item><item><title><![CDATA[Ardal]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\ardal.webp">
+
+Domains: Earth, Fertility, Agriculture<br>
+Symbols: Plow, sheaf of wheat<br>
+Edict: Cultivate the Land with care, celebrate the harvest with the community<br>
+Anathema: Allow the land to lie fallow out of neglect, waste the bounty of the harvest<br>
+Favoured Weapon: Flail<br>
+Abilities: Strength, Constitution<br>
+Skill: Nature<br>
+Other Names: Earthfather
+]]></description><link>religious-elements\deities\ardal.html</link><guid isPermaLink="false">Religious Elements/Deities/Ardal.md</guid><pubDate>Sat, 04 May 2024 09:59:38 GMT</pubDate><enclosure url="lib\media\ardal.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\ardal.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Brìgh]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\brigh.webp">
+
+Domains: Hearth, Family, Protection<br>
+Symbols: Hearthfire, woven tapestry<br>
+Edict: Maintain the hearth as a sacred space, protect and nurture your family.<br>
+Anathema: Neglect family duty, bring harm to one's home or community<br>
+Favoured Weapon: Dagger<br>
+Abilities: Wisdom, Charisma<br>
+Skill: Medicine<br>
+Other Names: Mother
+]]></description><link>religious-elements\deities\brìgh.html</link><guid isPermaLink="false">Religious Elements/Deities/Brìgh.md</guid><pubDate>Sat, 04 May 2024 09:54:18 GMT</pubDate><enclosure url="lib\media\brigh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\brigh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Elydd]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\placeholder.png">
+
+Domains: Light, Purity, Wisdom, Clarity<br>
+Symbols: A white dove, a silver lantern, or a white gemstone<br>
+Edict: Seek truth and clarity, lead others with wisdom, and maintain moral integrity<br>
+Anathema: Engage in deception, or corrupt the innocent<br>
+Favoured Weapon: Mace<br>
+Abilities: Intelligence, Wisdom<br>
+Skill: Diplomacy<br>
+Other Names: /
+]]></description><link>religious-elements\deities\elydd.html</link><guid isPermaLink="false">Religious Elements/Deities/Elydd.md</guid><pubDate>Sat, 04 May 2024 10:18:35 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Fionnlagh]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\placeholder.png">
+
+Domains: Forests, Animals, Hunting<br>
+Symbols: Stag antler, bow and arrow<br>
+Edict: Hunt responsibly, honor the spirits of the animals<br>
+Anathema: Waste the body of a creature, destroy the forests needlessly<br>
+Favoured Weapon: Longbow<br>
+Abilities: Dexterity, Constitution<br>
+Skill: Survival<br>
+Other Names: The Hunter
+]]></description><link>religious-elements\deities\fionnlagh.html</link><guid isPermaLink="false">Religious Elements/Deities/Fionnlagh.md</guid><pubDate>Sat, 04 May 2024 10:07:05 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Garrosh]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\placeholder.png">
+
+Domains: Justice, Honor, Personal Growth, Wisdom<br>
+Symbols: A balanced scale<br>
+Edict: Act with honor in all dealings, uphold justice, and face your challenges head-on<br>
+Anathema: Turning away from challenges, asking for help lightly, and helping others without being asked<br>
+Favoured Weapon: Greatsword<br>
+Abilities: Strength, Wisdom<br>
+Skill: Intimidation<br>
+Other Names: /
+]]></description><link>religious-elements\deities\garrosh.html</link><guid isPermaLink="false">Religious Elements/Deities/Garrosh.md</guid><pubDate>Sat, 04 May 2024 10:43:53 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lìosa]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\placeholder.png">
+
+Domains: Death, Underworld, Rebirth<br>
+Symbols: Skull, Bones<br>
+Edict: Honor the dead with memorials, accept death as part of life's cycle<br>
+Anathema: Desecrate a grave, fear or reject the natural end of life<br>
+Favoured Weapon: Scythe<br>
+Abilities: Wisdom, Charisma<br>
+Skill: Religion<br>
+Other Names: /
+]]></description><link>religious-elements\deities\lìosa.html</link><guid isPermaLink="false">Religious Elements/Deities/Lìosa.md</guid><pubDate>Sat, 04 May 2024 10:11:53 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nevi]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\placeholder.png">
+
+Domains: Rivers and their flow, emotion, intuition, healing<br>
+Symbols: A waterdrop, or a mirror<br>
+Edict: Flow with the way of life, embrace and understand your emotions, or those of others<br>
+Anathema: Deny or suppress one's own emotions, or those of others<br>
+Favoured Weapon: Whip<br>
+Abilities: Wisdom, Charisma<br>
+Skill: Insight<br>
+Other Names:
+]]></description><link>religious-elements\deities\nevi.html</link><guid isPermaLink="false">Religious Elements/Deities/Nevi.md</guid><pubDate>Sat, 04 May 2024 10:22:28 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sìleas]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\sileas.webp">
+
+Domains: War, Strategy, Wisdom<br>
+Symbols: Sword crossed with a feather quill<br>
+Edict: Seek wisdom as the foundation of strength, defend yourself with honor<br>
+Anathema: Cowardice in battle<br>
+Favoured Weapon: Longsword<br>
+Abilities: Strength, Wisdom<br>
+Skill: Warfare Lore<br>
+Other Names: /
+]]></description><link>religious-elements\deities\sìleas.html</link><guid isPermaLink="false">Religious Elements/Deities/Sìleas.md</guid><pubDate>Sat, 04 May 2024 09:59:00 GMT</pubDate><enclosure url="lib\media\sileas.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sileas.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Torran]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\torran.webp">
+
+Domains: Sea, Storms, Sailors<br>
+Symbols: Wave, trident<br>
+Edict: Respect the power of the sea, provide for the safety of those who travel upon it<br>
+Anathema: Pollute the waters, disregard the omens of impending storms<br>
+Favoured Weapon: Trident<br>
+Abilities: Strength, Dexterity<br>
+Skill: Sailing Lore<br>
+Other Names: /
+]]></description><link>religious-elements\deities\torran.html</link><guid isPermaLink="false">Religious Elements/Deities/Torran.md</guid><pubDate>Sat, 04 May 2024 09:53:53 GMT</pubDate><enclosure url="lib\media\torran.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\torran.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Yova]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\placeholder.png">
+
+Domains: Fire, Change, Renewal, Passion<br>
+Symbols: The red moon Yova<br>
+Edict: Embrace and drive change, renew oneself through challenge, pursue passions with zeal<br>
+Anathema: Stagnate in tradition without reason, fear change, or suppress healthy expression of emotion<br>
+Favoured Weapon: Rapier<br>
+Abilities: Charisma, Strength<br>
+Skill: Performance<br>
+Other Names: /
+]]></description><link>religious-elements\deities\yova.html</link><guid isPermaLink="false">Religious Elements/Deities/Yova.md</guid><pubDate>Sat, 04 May 2024 10:14:37 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Aoisghleann (Hrokan Pantheon)]]></title><description><![CDATA[ 
+ <br><br><br>Aoisghleann is based on the principle that all aspects of the natural world are interconnected and that life is a cycle of interdependent relationships. The religion teaches that humans are stewards of the earth, tasked with preserving the balance of nature while drawing strength and wisdom from it. The faith emphasizes respect for the land, valor in protection, and wisdom through observation and reflection.<br><br>1. <a data-href="Ardal" href="\religious-elements\deities\ardal.html" class="internal-link" target="_self" rel="noopener">Ardal</a> – God of the Land and Agriculture<br>
+- Domains: Earth, fertility, agriculture.<br>
+- Symbols: Plow, sheaf of wheat.<br>
+- Edicts: Cultivate the land with care, celebrate the harvest with the community.<br>
+- Anathemas: Allow the land to lie fallow out of neglect, waste the bounty of the harvest.<br>
+- Favored Weapon: Flail<br>
+- Abilities: Strength, Constitution<br>
+- Skill: Nature<br>
+2. <a data-href="Brìgh" href="\religious-elements\deities\brìgh.html" class="internal-link" target="_self" rel="noopener">Brìgh</a> – Goddess of Hearth and Home<br>
+- Domains: Hearth, family, protection.<br>
+- Symbols: Hearth fire, woven tapestry.<br>
+- Edicts: Maintain the hearth as a sacred space, protect and nurture your family.<br>
+- Anathemas: Neglect family duties, bring harm to one’s home or community.<br>
+- Favored Weapon: Dagger<br>
+- Abilities: Wisdom, Charisma<br>
+- Skill: Medicine<br>
+3. <a data-href="Torran" href="\religious-elements\deities\torran.html" class="internal-link" target="_self" rel="noopener">Torran</a> – God of Storms and Sea<br>
+- Domains: Sea, storms, sailors.<br>
+- Symbols: Wave, trident.<br>
+- Edicts: Respect the power of the sea, provide for the safety of those who travel upon it.<br>
+- Anathemas: Pollute the waters, disregard the omens of impending storms.<br>
+- Favored Weapon: Trident<br>
+- Abilities: Strength, Dexterity<br>
+- Skill: Sailing Lore<br>
+4. <a data-href="Sìleas" href="\religious-elements\deities\sìleas.html" class="internal-link" target="_self" rel="noopener">Sìleas</a> – Goddess of Wisdom and War<br>
+- Domains: War, strategy, wisdom.<br>
+- Symbols: Sword crossed with a feather quill.<br>
+- Edicts: Seek wisdom as the foundation of strength, defend the clan with honor.<br>
+- Anathemas: Use knowledge to deceive, cowardice in battle.<br>
+- Favored Weapon: Longsword<br>
+- Abilities: Strength, Wisdom<br>
+- Skill: Warfare Lore<br>
+5. <a data-href="Fionnlagh" href="\religious-elements\deities\fionnlagh.html" class="internal-link" target="_self" rel="noopener">Fionnlagh</a> – God of the Wild and Hunting<br>
+- Domains: Forests, animals, hunting.<br>
+- Symbols: Stag antler, bow and arrow.<br>
+- Edicts: Hunt responsibly, honor the spirits of the animals.<br>
+- Anathemas: Waste the body of a creature, destroy the habitats of the forest needlessly.<br>
+- Favored Weapon: Longbow<br>
+- Abilities: Dexterity, Constitution<br>
+- Skill: Survival<br>
+6. <a data-href="Lìosa" href="\religious-elements\deities\lìosa.html" class="internal-link" target="_self" rel="noopener">Lìosa</a> – Goddess of Death and Rebirth<br>
+- Domains: Death, the underworld, rebirth.<br>
+- Symbols: Skull, Bones.<br>
+- Edicts: Honor the dead with memorials, accept death as part of life’s cycle.<br>
+- Anathemas: Desecrate a grave, fear or reject the natural end of life.<br>
+- Favored Weapon: Scythe<br>
+- Abilities: Wisdom, Charisma<br>
+- Skill: Religion<br>
+7. <a data-href="Yova" href="\religious-elements\deities\yova.html" class="internal-link" target="_self" rel="noopener">Yova</a> – God of Fire and Renewal<br>
+- Domains: Fire, change, renewal and passion.<br>
+- Symbols: The red moon, Yova.<br>
+- Edicts: Embrace and drive change, renew oneself through challenges, and pursue passions with zeal.<br>
+- Anathemas: Stagnate in tradition without reason, fear change, or suppress healthy expressions of emotion.<br>
+- Favored Weapon: Rapier<br>
+- Abilities: Charisma, Strength<br>
+- Skill: Performance<br>
+8. <a data-href="Elydd" href="\religious-elements\deities\elydd.html" class="internal-link" target="_self" rel="noopener">Elydd</a> – Goddess of Purity and Light<br>
+- Domains: Light, purity, wisdom, and clarity.<br>
+- Symbols: A white dove, a silver lantern, or a white gemstone.<br>
+- Edicts: Seek truth and clarity, lead others with wisdom, and maintain moral integrity.<br>
+- Anathemas: Engage in deception, or corrupt the innocent.<br>
+- Favored Weapon: Mace<br>
+- Abilities: Intelligence, Wisdom<br>
+- Skill: Diplomacy<br>
+9. <a data-href="Nevi" href="\religious-elements\deities\nevi.html" class="internal-link" target="_self" rel="noopener">Nevi</a> – God of Rivers and Emotions<br>
+- Domains: Rivers and their flow, emotion, intuition, and healing.<br>
+- Symbols: A waterdrop, or a mirror.<br>
+- Edicts: Flow with the way of life, embrace and understand your emotions, offer healing wherever it is needed.<br>
+- Anathemas: Deny or suppress one's own emotions, or those of others.<br>
+- Favored Weapon: Whip<br>
+- Abilities: Wisdom, Charisma<br>
+- Skill: Acrobatics<br><br>
+<br>Groves are sacred places of Druidic Worship, sometimes dedicated to a specific Hrokan god, sometimes agnostic, led and overseen as ell as maintained by an Elder, a spiritual leader, serving both as priest and judge.
+<br>Rituals and Sacrifices: Seasonal festivals are accompanied by offerings of crops, crafts, and occasionally livestock to curry favor with the deities or to thank them for their blessings.
+<br><br>Aoisghleann shapes much of Hrokan culture, from laws and social customs to art and architecture. Temples often feature natural motifs and symbols of the deities, reflecting the deep spiritual connection to the land. The religion also influences the Hrokans' renowned craftsmanship, particularly in items used in worship and daily life that honor their gods.<br>
+In Hroka, while not as important as it used to be, Aoisghleann is not just a faith but a way of life, integrated into the daily existence of its people and providing a foundation for their identity and values. Through this faith, the Hrokans find not only a spiritual guide but also a deep, enduring connection to the very essence of their world.<br>
+Outside of Hroka, followers of this religion and Druids can be found throughout the entire world. Different interpretations may be here and there, but for every Druid, a visit to Hroka is a must.<br><br>The moons themselves play a significant role in the religious practices associated with the three Deities Yova, Nevi and Elydd. Each full moon is a time of heightened worship and ritual for the deity it represents. The alignment of these moons, especially when all three are full, is considered an extremely auspicious event, leading to festivals and significant religious gatherings. This trio adds a dynamic layer to the Aoisghleann pantheon, connecting the cosmic movements directly with the spiritual life of the people.]]></description><link>religious-elements\religions-and-pantheons\aoisghleann-(hrokan-pantheon).html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/Aoisghleann (Hrokan Pantheon).md</guid><pubDate>Sat, 04 May 2024 09:46:27 GMT</pubDate></item><item><title><![CDATA[The Way of Garrosh]]></title><description><![CDATA[ 
+ <br><br><br>At the heart of the way of <a data-href="Garrosh" href="\religious-elements\deities\garrosh.html" class="internal-link" target="_self" rel="noopener">Garrosh</a> is the conviction, that personal growth is achieved through adversity. Garrosh teaches that strength of character and Wisdom are forged in life's challenges. Orcs inspired by Garrosh face their trials with courage, believing that each struggle is an opportunity for personal development and spiritual enlightenment. This philosophy fosters a community where resilience is revered, and honor is upheld through deeds of bravery and integrity.<br><br>Garrosh<br>
+- Domains: Justice, Honor, Personal Growth, Wisdom<br>
+- Symbols: A balanced scale<br>
+- Edicts: Act with honor in all dealings, uphold justice, and face your challenges head-on<br>
+- Anathemas: Turning away from challenges, asking for help lightly, and helping others with their own challenges without being asked<br>
+- Favored Weapon: Greatsword<br>
+- Abilities: Strength, Wisdom<br>
+- Skills: Intimidation<br><br>Orcs following the way of Garrosh, engage in several rituals that strengthen their connection to themselves, and reinforce their spiritual bonds.<br>
+<br>Meditation and Reflection: These practices are crucial for personal growth and understanding, allowing individuals to contemplate their actions and learn from their experiences.
+<br>Martial Training: Symbolizing the constant strive for improvement and preparedness, this practice not only hones the body but also disciplines the mind.
+<br><br>"The Way of Garrosh" profoundly influences Orcish culture, guiding everything from governance and law to education and the arts. Justice systems in Orcish societies are built around the principles of balance, mirroring Garrosh’s domain of justice. Honor is a pervasive theme in Orcish art, celebrated in epic sagas and songs that recount the deeds of past heroes who embodied Garrosh’s ideals.<br>The teachings of Garrosh also affect Orcish diplomacy; leaders are expected to negotiate with honesty and strength, seeking always to reflect Garrosh's wisdom and fairness. Education for the young is steeped in these principles, with youths taught from an early age to value truth, bravery, and respect for the natural world.<br>This philosophy extends to the Orcish approach to assistance and intervention. True to Garrosh's teachings, Orcs believe in the sanctity of personal struggle as a path to growth. Offering or seeking help is a deeply personal affair, reserved for moments when an individual genuinely reaches out for support, acknowledging the shared journey of strength and vulnerability.<br>Orcs living in areas with many other ancestries are often perceived as somewhat rude or "standoffish", if not hostile, because they neither ask for help, nor offer help, even in times of crisis, and are offended if someone tries to help unsolicited. There are rumors that they steal children, because if an orc finds a child lost in the forest, they will feed it and - if they cannot find the parents of that child, raise and integrate it.<br>
+Children are an exception - for Orcs, all children are fundamentally the responsibility of the society/community, no matter whose child it is or whether the child is an Orc at all.<br>]]></description><link>religious-elements\religions-and-pantheons\the-way-of-garrosh.html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/The Way of Garrosh.md</guid><pubDate>Sat, 04 May 2024 10:45:51 GMT</pubDate></item><item><title><![CDATA[Deities]]></title><description><![CDATA[ 
+ <br>Below is a handy table of all Deities<br>Loading...]]></description><link>religious-elements\deities.html</link><guid isPermaLink="false">Religious Elements/Deities.md</guid><pubDate>Sat, 04 May 2024 10:50:04 GMT</pubDate></item><item><title><![CDATA[Time and the Calendar]]></title><description><![CDATA[ 
  <br><br>A single day on Caitha is roughly the same length as one on Earth. Time is being tracked throughout the day using a combination of sun-positioning, stable candles, water clocks, other mechanical or magical means and - depending on where you live - even using the weather.<br>
 Mechanical clocks are technically available, though scarce, not very practical, and incredibly expensive.<br><br>The most widely adapted and established Calendar in Caitha is the <a data-href="Druidic Calendar" href="\Druidic Calendar" class="internal-link" target="_self" rel="noopener">Druidic Calendar</a> - a lunar calendar based on the moon phases of two out of the three <a data-href="Moons" href="\Moons" class="internal-link" target="_self" rel="noopener">Moons</a> of Caitha, Elydd, Nevi and Yova, developed by Druids in today's <a data-href="Ilora" href="\Ilora" class="internal-link" target="_self" rel="noopener">Ilora</a> based on their observance of the night sky and the seasons.<br>
 This Calendar was later adopted and spread through the world through trade and politics by the <a data-tooltip-position="top" aria-label="Palyra" data-href="Palyra" href="\Palyra" class="internal-link" target="_self" rel="noopener">Palyran Empire</a> during the <a data-href="Era of Legends" href="\timelines\era-of-legends.html" class="internal-link" target="_self" rel="noopener">Era of Legends</a>. The beginning of this calendar is marked by the <a data-tooltip-position="top" aria-label="The Druidic Sacrifice" data-href="The Druidic Sacrifice" href="\historical-elements\legends-and-tales\the-druidic-sacrifice.html" class="internal-link" target="_self" rel="noopener">Druidic Sacrifice</a>.<br><br>The week is made up of 8 days and based on the blue moon Nevi, which takes 16 days for a full cycle. Every week starts on either a full moon or a new moon on Moonday and goes over firsday, seconday, thirday, fourday, fiveday, sixday, and sevenday.<br><br>A Month on Caitha is made up of 37 days and is based on the white moon Elydd, which takes a full 74 days for a full cycle.  Each new moon for Elydd roughly marks the beginning of a new season.<br>First Bloom<br>
@@ -218,102 +438,102 @@ Welcome to Caitha.<br><a data-tooltip-position="top" aria-label="Table of Elemen
  <br><br><img alt="logo.png" src="\_attachments\logo.png" style="width: 650px; max-width: 100%;"><br>the following list is structured after the "worldbuilding Table of Elements" by <a data-tooltip-position="top" aria-label="https://www.reddit.com/r/worldbuilding/comments/u55hfb/worldbuilding_table_of_elements/" rel="noopener" class="external-link" href="https://www.reddit.com/r/worldbuilding/comments/u55hfb/worldbuilding_table_of_elements/" target="_blank">u/otherAtlas</a><br>
 traveler, beware! many articles listed here are not published yet and are still being refined<br><br>
 <br><a data-href="Maps" href="\maps\maps.html" class="internal-link" target="_self" rel="noopener">Maps</a>
-<br><a data-href="Timelines" href="\timelines\timelines.html" class="internal-link" target="_self" rel="noopener">Timelines</a> *
+<br><a data-href="Timelines" href="\timelines\timelines.html" class="internal-link" target="_self" rel="noopener">Timelines</a>
 <br><a data-href="Time and the Calendar" href="\timelines\time-and-the-calendar.html" class="internal-link" target="_self" rel="noopener">Time and the Calendar</a>
 <br><br>
-<br><a data-href="Ancestries" href="\player-character-options\ancestries.html" class="internal-link" target="_self" rel="noopener">Ancestries</a> *
-<br><a data-href="Heritages" href="\Heritages" class="internal-link" target="_self" rel="noopener">Heritages</a> *
-<br><a data-href="Backgrounds" href="\Backgrounds" class="internal-link" target="_self" rel="noopener">Backgrounds</a>*
+<br><a data-href="Ancestries" href="\player-character-options\ancestries.html" class="internal-link" target="_self" rel="noopener">Ancestries</a>
+<br><a data-href="Heritages" href="\Heritages" class="internal-link" target="_self" rel="noopener">Heritages</a>
+<br><a data-href="Backgrounds" href="\Backgrounds" class="internal-link" target="_self" rel="noopener">Backgrounds</a>
 <br><br>
 <br><a data-href="Continents" href="\geographic-elements\continents.html" class="internal-link" target="_self" rel="noopener">Continents</a>
-<br><a data-href="Seas and Oceans" href="\Seas and Oceans" class="internal-link" target="_self" rel="noopener">Seas and Oceans</a> *
-<br><a data-href="Rivers and Lakes" href="\Rivers and Lakes" class="internal-link" target="_self" rel="noopener">Rivers and Lakes</a> *
-<br><a data-href="States and Nations" href="\States and Nations" class="internal-link" target="_self" rel="noopener">States and Nations</a> *
-<br><a data-href="Cities" href="\Cities" class="internal-link" target="_self" rel="noopener">Cities</a> *
-<br><a data-href="Towns" href="\Towns" class="internal-link" target="_self" rel="noopener">Towns</a> *
-<br><a data-href="Villages &amp; Smaller" href="\Villages &amp; Smaller" class="internal-link" target="_self" rel="noopener">Villages &amp; Smaller</a> *
+<br><a data-href="Seas and Oceans" href="\Seas and Oceans" class="internal-link" target="_self" rel="noopener">Seas and Oceans</a> 
+<br><a data-href="Rivers and Lakes" href="\Rivers and Lakes" class="internal-link" target="_self" rel="noopener">Rivers and Lakes</a> 
+<br><a data-href="States and Nations" href="\States and Nations" class="internal-link" target="_self" rel="noopener">States and Nations</a> 
+<br><a data-href="Cities" href="\Cities" class="internal-link" target="_self" rel="noopener">Cities</a> 
+<br><a data-href="Towns" href="\Towns" class="internal-link" target="_self" rel="noopener">Towns</a>
+<br><a data-href="Villages &amp; Smaller" href="\Villages &amp; Smaller" class="internal-link" target="_self" rel="noopener">Villages &amp; Smaller</a> 
 <br><br>Caitha has a temperate climate, with temperatures ranging from -50 degrees Celsius up to 40 degrees Celsius. The Surface of Caitha is mostly covered in oceans.<br>
-<br><a data-href="Flora" href="\flora\flora.html" class="internal-link" target="_self" rel="noopener">Flora</a> *
-<br><a data-href="Fauna" href="\fauna\fauna.html" class="internal-link" target="_self" rel="noopener">Fauna</a> *
-<br><a data-href="Ecosystems" href="\ecosystems\ecosystems.html" class="internal-link" target="_self" rel="noopener">Ecosystems</a> *
+<br><a data-href="Flora" href="\flora\flora.html" class="internal-link" target="_self" rel="noopener">Flora</a>
+<br><a data-href="Fauna" href="\fauna\fauna.html" class="internal-link" target="_self" rel="noopener">Fauna</a>
+<br><a data-href="Ecosystems" href="\ecosystems\ecosystems.html" class="internal-link" target="_self" rel="noopener">Ecosystems</a>
 <br><br>
-<br><a data-href="Architecture" href="\Architecture" class="internal-link" target="_self" rel="noopener">Architecture</a> *
-<br><a data-href="Art" href="\Art" class="internal-link" target="_self" rel="noopener">Art</a> *
-<br><a data-href="Fashion" href="\Fashion" class="internal-link" target="_self" rel="noopener">Fashion</a> *
-<br><a data-href="Cuisine" href="\Cuisine" class="internal-link" target="_self" rel="noopener">Cuisine</a> *
-<br><a data-href="Etiquette and Taboos" href="\Etiquette and Taboos" class="internal-link" target="_self" rel="noopener">Etiquette and Taboos</a> *
-<br><a data-href="Entertainment" href="\Entertainment" class="internal-link" target="_self" rel="noopener">Entertainment</a> *
-<br><a data-href="Body Adornment" href="\Body Adornment" class="internal-link" target="_self" rel="noopener">Body Adornment</a>s *
-<br><a data-href="Rituals" href="\Rituals" class="internal-link" target="_self" rel="noopener">Rituals</a> *
-<br><a data-href="Celebrations" href="\Celebrations" class="internal-link" target="_self" rel="noopener">Celebrations</a> *
+<br><a data-href="Architecture" href="\Architecture" class="internal-link" target="_self" rel="noopener">Architecture</a>
+<br><a data-href="Art" href="\Art" class="internal-link" target="_self" rel="noopener">Art</a>
+<br><a data-href="Fashion" href="\Fashion" class="internal-link" target="_self" rel="noopener">Fashion</a>
+<br><a data-href="Cuisine" href="\Cuisine" class="internal-link" target="_self" rel="noopener">Cuisine</a>
+<br><a data-href="Etiquette and Taboos" href="\Etiquette and Taboos" class="internal-link" target="_self" rel="noopener">Etiquette and Taboos</a>
+<br><a data-href="Entertainment" href="\Entertainment" class="internal-link" target="_self" rel="noopener">Entertainment</a>
+<br><a data-href="Body Adornment" href="\Body Adornment" class="internal-link" target="_self" rel="noopener">Body Adornment</a>s
+<br><a data-href="Rituals" href="\Rituals" class="internal-link" target="_self" rel="noopener">Rituals</a>
+<br><a data-href="Celebrations" href="\Celebrations" class="internal-link" target="_self" rel="noopener">Celebrations</a>
 <br><br>
 <br><a data-href="Guilds and other Organizations" href="\guilds\guilds-and-other-organizations.html" class="internal-link" target="_self" rel="noopener">Guilds and other Organizations</a>
-<br><a data-href="Hierarchies" href="\Hierarchies" class="internal-link" target="_self" rel="noopener">Hierarchies</a> *
-<br><a data-href="Heraldry and Vexillology" href="\Heraldry and Vexillology" class="internal-link" target="_self" rel="noopener">Heraldry and Vexillology</a> *
-<br><a data-href="Calendars" href="\Calendars" class="internal-link" target="_self" rel="noopener">Calendars</a> *
+<br><a data-href="Hierarchies" href="\Hierarchies" class="internal-link" target="_self" rel="noopener">Hierarchies</a>
+<br><a data-href="Heraldry and Vexillology" href="\Heraldry and Vexillology" class="internal-link" target="_self" rel="noopener">Heraldry and Vexillology</a>
+<br><a data-href="Time and the Calendar" href="\timelines\time-and-the-calendar.html" class="internal-link" target="_self" rel="noopener">Time and the Calendar</a>
 <br><br>
-<br><a data-href="Recorded Histories" href="\Recorded Histories" class="internal-link" target="_self" rel="noopener">Recorded Histories</a> *
+<br><a data-href="Recorded Histories" href="\Recorded Histories" class="internal-link" target="_self" rel="noopener">Recorded Histories</a>
 <br><a data-href="Legends and Tales" href="\historical-elements\legends-and-tales.html" class="internal-link" target="_self" rel="noopener">Legends and Tales</a>
-<br><a data-href="Artifacts" href="\Artifacts" class="internal-link" target="_self" rel="noopener">Artifacts</a> *
-<br><a data-href="Ruins" href="\Ruins" class="internal-link" target="_self" rel="noopener">Ruins</a> *
+<br><a data-href="Artifacts" href="\Artifacts" class="internal-link" target="_self" rel="noopener">Artifacts</a>
+<br><a data-href="Ruins" href="\Ruins" class="internal-link" target="_self" rel="noopener">Ruins</a>~~
 <br><br>
-<br><a data-href="Alphabets and Languages" href="\Alphabets and Languages" class="internal-link" target="_self" rel="noopener">Alphabets and Languages</a> *
-<br><a data-href="Figures of Speech" href="\Figures of Speech" class="internal-link" target="_self" rel="noopener">Figures of Speech</a> *
-<br><a data-href="Slangs and Curses" href="\Slangs and Curses" class="internal-link" target="_self" rel="noopener">Slangs and Curses</a> *
-<br><a data-href="Lies and Propaganda" href="\Lies and Propaganda" class="internal-link" target="_self" rel="noopener">Lies and Propaganda</a> *
-<br><a data-href="Long Distance Communication" href="\Long Distance Communication" class="internal-link" target="_self" rel="noopener">Long Distance Communication</a> *
+<br><a data-href="Alphabets and Languages" href="\Alphabets and Languages" class="internal-link" target="_self" rel="noopener">Alphabets and Languages</a>
+<br><a data-href="Figures of Speech" href="\Figures of Speech" class="internal-link" target="_self" rel="noopener">Figures of Speech</a>
+<br><a data-href="Slangs and Curses" href="\Slangs and Curses" class="internal-link" target="_self" rel="noopener">Slangs and Curses</a>
+<br><a data-href="Lies and Propaganda" href="\Lies and Propaganda" class="internal-link" target="_self" rel="noopener">Lies and Propaganda</a>
+<br><a data-href="Long Distance Communication" href="\Long Distance Communication" class="internal-link" target="_self" rel="noopener">Long Distance Communication</a>
 <br><br>
-<br><a data-href="Tools" href="\Tools" class="internal-link" target="_self" rel="noopener">Tools</a> *
-<br><a data-href="Arms and Armour" href="\Arms and Armour" class="internal-link" target="_self" rel="noopener">Arms and Armour</a> *
-<br><a data-href="Medicine" href="\Medicine" class="internal-link" target="_self" rel="noopener">Medicine</a> *
+<br><a data-href="Tools" href="\Tools" class="internal-link" target="_self" rel="noopener">Tools</a>
+<br><a data-href="Arms and Armour" href="\Arms and Armour" class="internal-link" target="_self" rel="noopener">Arms and Armour</a>
+<br><a data-href="Medicine" href="\Medicine" class="internal-link" target="_self" rel="noopener">Medicine</a>
 <br><br>
-<br><a data-href="Governments" href="\Governments" class="internal-link" target="_self" rel="noopener">Governments</a> *
-<br><a data-href="Diplomacy and Politics" href="\Diplomacy and Politics" class="internal-link" target="_self" rel="noopener">Diplomacy and Politics</a> *
-<br><a data-href="Political Events" href="\Political Events" class="internal-link" target="_self" rel="noopener">Political Events</a> *
-<br><a data-href="War" href="\War" class="internal-link" target="_self" rel="noopener">War</a> *
-<br><a data-href="Law and Order" href="\Law and Order" class="internal-link" target="_self" rel="noopener">Law and Order</a> *
+<br><a data-href="Governments" href="\Governments" class="internal-link" target="_self" rel="noopener">Governments</a>
+<br><a data-href="Diplomacy and Politics" href="\Diplomacy and Politics" class="internal-link" target="_self" rel="noopener">Diplomacy and Politics</a>
+<br><a data-href="Political Events" href="\Political Events" class="internal-link" target="_self" rel="noopener">Political Events</a>
+<br><a data-href="War" href="\War" class="internal-link" target="_self" rel="noopener">War</a>
+<br><a data-href="Law and Order" href="\Law and Order" class="internal-link" target="_self" rel="noopener">Law and Order</a>
 <br><br>
-<br><a data-href="Currencies and Trade" href="\economics\currencies-and-trade.html" class="internal-link" target="_self" rel="noopener">Currencies and Trade</a> *
-<br><a data-href="Businesses and Corporations" href="\Businesses and Corporations" class="internal-link" target="_self" rel="noopener">Businesses and Corporations</a> *
-<br><a data-href="Rare Goods" href="\Rare Goods" class="internal-link" target="_self" rel="noopener">Rare Goods</a> *
-<br><a data-href="Resources" href="\Resources" class="internal-link" target="_self" rel="noopener">Resources</a> *
-<br><a data-href="Important Trade Routes" href="\Important Trade Routes" class="internal-link" target="_self" rel="noopener">Important Trade Routes</a> *
+<br><a data-href="Currencies and Trade" href="\economics\currencies-and-trade.html" class="internal-link" target="_self" rel="noopener">Currencies and Trade</a>
+<br><a data-href="Businesses and Corporations" href="\Businesses and Corporations" class="internal-link" target="_self" rel="noopener">Businesses and Corporations</a>
+<br><a data-href="Rare Goods" href="\Rare Goods" class="internal-link" target="_self" rel="noopener">Rare Goods</a>
+<br><a data-href="Resources" href="\Resources" class="internal-link" target="_self" rel="noopener">Resources</a>
+<br><a data-href="Important Trade Routes" href="\Important Trade Routes" class="internal-link" target="_self" rel="noopener">Important Trade Routes</a>
 <br><br>
-<br><a data-href="Deities" href="\Deities" class="internal-link" target="_self" rel="noopener">Deities</a> *
-<br><a data-href="Religions" href="\Religions" class="internal-link" target="_self" rel="noopener">Religions</a> *
-<br><a data-href="Sacred Texts" href="\Sacred Texts" class="internal-link" target="_self" rel="noopener">Sacred Texts</a> *
-<br><a data-href="Afterlife Beliefs" href="\Afterlife Beliefs" class="internal-link" target="_self" rel="noopener">Afterlife Beliefs</a> *
-<br><a data-href="Prophecies" href="\Prophecies" class="internal-link" target="_self" rel="noopener">Prophecies</a> *
+<br><a data-href="Deities" href="\religious-elements\deities.html" class="internal-link" target="_self" rel="noopener">Deities</a>
+<br><a data-href="Religions and Pantheons" href="\Religions and Pantheons" class="internal-link" target="_self" rel="noopener">Religions and Pantheons</a>
+<br><a data-href="Sacred Texts" href="\Sacred Texts" class="internal-link" target="_self" rel="noopener">Sacred Texts</a>
+<br><a data-href="Afterlife Beliefs" href="\Afterlife Beliefs" class="internal-link" target="_self" rel="noopener">Afterlife Beliefs</a>
+<br><a data-href="Prophecies" href="\Prophecies" class="internal-link" target="_self" rel="noopener">Prophecies</a>
 <br><br>
-<br><a data-href="Magic/Magic in Caitha" href="\magic\magic-in-caitha.html" class="internal-link" target="_self" rel="noopener">Magic/Magic in Caitha</a> *
+<br><a data-href="Magic/Magic in Caitha" href="\magic\magic-in-caitha.html" class="internal-link" target="_self" rel="noopener">Magic/Magic in Caitha</a>
 
-<br><a data-href="Magic Language" href="\languages\magic-language.html" class="internal-link" target="_self" rel="noopener">Magic Language</a> *
-<br><a data-href="Druidic Magic" href="\Druidic Magic" class="internal-link" target="_self" rel="noopener">Druidic Magic</a> *
-<br><a data-href="Magical Creatures" href="\Magical Creatures" class="internal-link" target="_self" rel="noopener">Magical Creatures</a> *
-<br><a data-href="Unique Abilities" href="\Unique Abilities" class="internal-link" target="_self" rel="noopener">Unique Abilities</a> *
-<br><a data-href="Constructed Itelligences" href="\Constructed Itelligences" class="internal-link" target="_self" rel="noopener">Constructed Itelligences</a> *
-<br><a data-href="Magic Rituals" href="\Magic Rituals" class="internal-link" target="_self" rel="noopener">Magic Rituals</a> *
+<br><a data-href="Magic Language" href="\languages\magic-language.html" class="internal-link" target="_self" rel="noopener">Magic Language</a> 
+<br><a data-href="Druidic Magic" href="\Druidic Magic" class="internal-link" target="_self" rel="noopener">Druidic Magic</a> 
+<br><a data-href="Magical Creatures" href="\Magical Creatures" class="internal-link" target="_self" rel="noopener">Magical Creatures</a> 
+<br><a data-href="Unique Abilities" href="\Unique Abilities" class="internal-link" target="_self" rel="noopener">Unique Abilities</a> 
+<br><a data-href="Constructed Itelligences" href="\Constructed Itelligences" class="internal-link" target="_self" rel="noopener">Constructed Itelligences</a> 
+<br><a data-href="Magic Rituals" href="\Magic Rituals" class="internal-link" target="_self" rel="noopener">Magic Rituals</a> 
 
 
-<br><a data-href="Paranormal Entities" href="\Paranormal Entities" class="internal-link" target="_self" rel="noopener">Paranormal Entities</a> *
+<br><a data-href="Paranormal Entities" href="\Paranormal Entities" class="internal-link" target="_self" rel="noopener">Paranormal Entities</a> 
 <br><a data-href="Highstorms" href="\fantastical-elements\highstorms.html" class="internal-link" target="_self" rel="noopener">Highstorms</a>
 <br><br>
-<br><a data-href="Stars" href="\Stars" class="internal-link" target="_self" rel="noopener">Stars</a> *
-<br><a data-href="Planets" href="\Planets" class="internal-link" target="_self" rel="noopener">Planets</a> *
-<br><a data-href="Moons" href="\Moons" class="internal-link" target="_self" rel="noopener">Moons</a> *
-<br><a data-href="Asteroids" href="\Asteroids" class="internal-link" target="_self" rel="noopener">Asteroids</a> *
-<br><a data-href="Weathers and Storms" href="\Weathers and Storms" class="internal-link" target="_self" rel="noopener">Weathers and Storms</a> *
-<br><a data-href="Strange Worlds" href="\Strange Worlds" class="internal-link" target="_self" rel="noopener">Strange Worlds</a> *
+<br><a data-href="Stars" href="\Stars" class="internal-link" target="_self" rel="noopener">Stars</a> 
+<br><a data-href="Planets" href="\Planets" class="internal-link" target="_self" rel="noopener">Planets</a> 
+<br><a data-href="Moons" href="\Moons" class="internal-link" target="_self" rel="noopener">Moons</a> 
+<br><a data-href="Asteroids" href="\Asteroids" class="internal-link" target="_self" rel="noopener">Asteroids</a> 
+<br><a data-href="Weathers and Storms" href="\Weathers and Storms" class="internal-link" target="_self" rel="noopener">Weathers and Storms</a> 
+<br><a data-href="Strange Worlds" href="\Strange Worlds" class="internal-link" target="_self" rel="noopener">Strange Worlds</a> 
 <br><br>
-<br><a data-href="Traps" href="\Traps" class="internal-link" target="_self" rel="noopener">Traps</a> *
-<br><a data-href="Riddles and Puzzles" href="\Riddles and Puzzles" class="internal-link" target="_self" rel="noopener">Riddles and Puzzles</a> *
-<br><a data-href="Forbidden Technologies" href="\Forbidden Technologies" class="internal-link" target="_self" rel="noopener">Forbidden Technologies</a> *
-<br><a data-href="Crime" href="\Crime" class="internal-link" target="_self" rel="noopener">Crime</a> *
-<br><a data-href="Illicit Goods and Services" href="\Illicit Goods and Services" class="internal-link" target="_self" rel="noopener">Illicit Goods and Services</a> *
+<br><a data-href="Traps" href="\Traps" class="internal-link" target="_self" rel="noopener">Traps</a> 
+<br><a data-href="Riddles and Puzzles" href="\Riddles and Puzzles" class="internal-link" target="_self" rel="noopener">Riddles and Puzzles</a>
+<br><a data-href="Forbidden Technologies" href="\Forbidden Technologies" class="internal-link" target="_self" rel="noopener">Forbidden Technologies</a> 
+<br><a data-href="Crime" href="\Crime" class="internal-link" target="_self" rel="noopener">Crime</a> 
+<br><a data-href="Illicit Goods and Services" href="\Illicit Goods and Services" class="internal-link" target="_self" rel="noopener">Illicit Goods and Services</a>
 
-<br><a data-href="Poison &amp; Venom" href="\Poison &amp; Venom" class="internal-link" target="_self" rel="noopener">Poison &amp; Venom</a> *
+<br><a data-href="Poison &amp; Venom" href="\Poison &amp; Venom" class="internal-link" target="_self" rel="noopener">Poison &amp; Venom</a>
 
 
-<br><a data-href="Disease" href="\Disease" class="internal-link" target="_self" rel="noopener">Disease</a> *
-<br><a data-href="Cults" href="\Cults" class="internal-link" target="_self" rel="noopener">Cults</a> *
-<br>* =  UNDER CONSTRUCTION]]></description><link>table-of-elements.html</link><guid isPermaLink="false">Table of Elements.md</guid><pubDate>Sun, 10 Mar 2024 18:24:07 GMT</pubDate><enclosure url="_attachments\logo.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="_attachments\logo.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><a data-href="Disease" href="\Disease" class="internal-link" target="_self" rel="noopener">Disease</a>
+<br><a data-href="Cults" href="\Cults" class="internal-link" target="_self" rel="noopener">Cults</a>
+]]></description><link>table-of-elements.html</link><guid isPermaLink="false">Table of Elements.md</guid><pubDate>Sat, 04 May 2024 10:57:27 GMT</pubDate><enclosure url="_attachments\logo.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="_attachments\logo.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
