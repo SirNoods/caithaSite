@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 04 May 2024 11:09:33 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 04 May 2024 11:09:29 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Appearance]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 04 May 2024 13:27:01 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 04 May 2024 13:26:57 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Appearance]]></title><description><![CDATA[ 
  <br>The Dwarves of Caitha are widely credited with creating the first unified currency in the world, laying the foundation for the economy for centuries to come.<br>
 The Dwarven Crown, commonly referred to as just "Crown", the most enduring symbol of trade and wealth. These hexagonal coins, produced in the golden halls of <a data-href="Dhartahl" href="\Dhartahl" class="internal-link" target="_self" rel="noopener">Dhartahl</a> have long been the predominant currency used throughout the diverse regions of Caitha.<br><br>Crowns minted in the forges of Dhartahl are hexagonal with a hexagonal hole in the middle. They are approximately 3.5 centimeters in diameter, and have a 5 mm thick border with fine stripes in the middle. Many coins are simple, but some of the golden coins have a symbol printed on them to commemorate an event or important person.<br>
 <img alt="goldencrown.png" src="\lib\media\goldencrown.png"><br><br>The copper crown (CC), the silver crown (SC) and the golden crown (GC) are the primary denominations of this currency. 10 Copper Crowns make a silver crown, and 10 silver crowns make a golden crown.<br>
@@ -227,7 +227,7 @@ Other Names: Mother
 ]]></description><link>religious-elements\deities\brìgh.html</link><guid isPermaLink="false">Religious Elements/Deities/Brìgh.md</guid><pubDate>Sat, 04 May 2024 09:54:18 GMT</pubDate><enclosure url="lib\media\brigh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\brigh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Elydd]]></title><description><![CDATA[ 
  <br>Deity
 
-<img alt="cover" src="\lib\media\placeholder.png">
+<img alt="cover" src="\lib\media\elydd.webp">
 
 Domains: Light, Purity, Wisdom, Clarity<br>
 Symbols: A white dove, a silver lantern, or a white gemstone<br>
@@ -237,10 +237,10 @@ Favoured Weapon: Mace<br>
 Abilities: Intelligence, Wisdom<br>
 Skill: Diplomacy<br>
 Other Names: /
-]]></description><link>religious-elements\deities\elydd.html</link><guid isPermaLink="false">Religious Elements/Deities/Elydd.md</guid><pubDate>Sat, 04 May 2024 10:18:35 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Fionnlagh]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\elydd.html</link><guid isPermaLink="false">Religious Elements/Deities/Elydd.md</guid><pubDate>Sat, 04 May 2024 13:19:54 GMT</pubDate><enclosure url="lib\media\elydd.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\elydd.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Fionnlagh]]></title><description><![CDATA[ 
  <br>Deity
 
-<img alt="cover" src="\lib\media\placeholder.png">
+<img alt="cover" src="\lib\media\fionnlagh.webp">
 
 Domains: Forests, Animals, Hunting<br>
 Symbols: Stag antler, bow and arrow<br>
@@ -250,23 +250,23 @@ Favoured Weapon: Longbow<br>
 Abilities: Dexterity, Constitution<br>
 Skill: Survival<br>
 Other Names: The Hunter
-]]></description><link>religious-elements\deities\fionnlagh.html</link><guid isPermaLink="false">Religious Elements/Deities/Fionnlagh.md</guid><pubDate>Sat, 04 May 2024 10:07:05 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Garrosh]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\fionnlagh.html</link><guid isPermaLink="false">Religious Elements/Deities/Fionnlagh.md</guid><pubDate>Sat, 04 May 2024 13:12:06 GMT</pubDate><enclosure url="lib\media\fionnlagh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\fionnlagh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Garrosh]]></title><description><![CDATA[ 
  <br>Deity
 
-<img alt="cover" src="\lib\media\placeholder.png">
+<img alt="cover" src="\lib\media\garrosh.webp">
 
 Domains: Justice, Honor, Personal Growth, Wisdom<br>
 Symbols: A balanced scale<br>
 Edict: Act with honor in all dealings, uphold justice, and face your challenges head-on<br>
-Anathema: Turning away from challenges, asking for help lightly, and helping others without being asked<br>
+Anathema: Turning away from challenges, asking for help lightly, and helping others unsolicited<br>
 Favoured Weapon: Greatsword<br>
 Abilities: Strength, Wisdom<br>
 Skill: Intimidation<br>
 Other Names: /
-]]></description><link>religious-elements\deities\garrosh.html</link><guid isPermaLink="false">Religious Elements/Deities/Garrosh.md</guid><pubDate>Sat, 04 May 2024 10:43:53 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lìosa]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\garrosh.html</link><guid isPermaLink="false">Religious Elements/Deities/Garrosh.md</guid><pubDate>Sat, 04 May 2024 13:26:41 GMT</pubDate><enclosure url="lib\media\garrosh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\garrosh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lìosa]]></title><description><![CDATA[ 
  <br>Deity
 
-<img alt="cover" src="\lib\media\placeholder.png">
+<img alt="cover" src="\lib\media\liosa.webp">
 
 Domains: Death, Underworld, Rebirth<br>
 Symbols: Skull, Bones<br>
@@ -276,10 +276,10 @@ Favoured Weapon: Scythe<br>
 Abilities: Wisdom, Charisma<br>
 Skill: Religion<br>
 Other Names: /
-]]></description><link>religious-elements\deities\lìosa.html</link><guid isPermaLink="false">Religious Elements/Deities/Lìosa.md</guid><pubDate>Sat, 04 May 2024 10:11:53 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nevi]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\lìosa.html</link><guid isPermaLink="false">Religious Elements/Deities/Lìosa.md</guid><pubDate>Sat, 04 May 2024 13:14:22 GMT</pubDate><enclosure url="lib\media\liosa.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\liosa.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nevi]]></title><description><![CDATA[ 
  <br>Deity
 
-<img alt="cover" src="\lib\media\placeholder.png">
+<img alt="cover" src="\lib\media\nevi.webp">
 
 Domains: Rivers and their flow, emotion, intuition, healing<br>
 Symbols: A waterdrop, or a mirror<br>
@@ -289,7 +289,7 @@ Favoured Weapon: Whip<br>
 Abilities: Wisdom, Charisma<br>
 Skill: Insight<br>
 Other Names:
-]]></description><link>religious-elements\deities\nevi.html</link><guid isPermaLink="false">Religious Elements/Deities/Nevi.md</guid><pubDate>Sat, 04 May 2024 10:22:28 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sìleas]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\nevi.html</link><guid isPermaLink="false">Religious Elements/Deities/Nevi.md</guid><pubDate>Sat, 04 May 2024 13:20:13 GMT</pubDate><enclosure url="lib\media\nevi.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\nevi.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sìleas]]></title><description><![CDATA[ 
  <br>Deity
 
 <img alt="cover" src="\lib\media\sileas.webp">
@@ -318,7 +318,7 @@ Other Names: /
 ]]></description><link>religious-elements\deities\torran.html</link><guid isPermaLink="false">Religious Elements/Deities/Torran.md</guid><pubDate>Sat, 04 May 2024 09:53:53 GMT</pubDate><enclosure url="lib\media\torran.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\torran.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Yova]]></title><description><![CDATA[ 
  <br>Deity
 
-<img alt="cover" src="\lib\media\placeholder.png">
+<img alt="cover" src="\lib\media\yova.webp">
 
 Domains: Fire, Change, Renewal, Passion<br>
 Symbols: The red moon Yova<br>
@@ -328,7 +328,7 @@ Favoured Weapon: Rapier<br>
 Abilities: Charisma, Strength<br>
 Skill: Performance<br>
 Other Names: /
-]]></description><link>religious-elements\deities\yova.html</link><guid isPermaLink="false">Religious Elements/Deities/Yova.md</guid><pubDate>Sat, 04 May 2024 10:14:37 GMT</pubDate><enclosure url="lib\media\placeholder.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\placeholder.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Aoisghleann (Hrokan Pantheon)]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\yova.html</link><guid isPermaLink="false">Religious Elements/Deities/Yova.md</guid><pubDate>Sat, 04 May 2024 13:16:16 GMT</pubDate><enclosure url="lib\media\yova.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\yova.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Aoisghleann (Hrokan Pantheon)]]></title><description><![CDATA[ 
  <br><br><br>Aoisghleann is based on the principle that all aspects of the natural world are interconnected and that life is a cycle of interdependent relationships. The religion teaches that humans are stewards of the earth, tasked with preserving the balance of nature while drawing strength and wisdom from it. The faith emphasizes respect for the land, valor in protection, and wisdom through observation and reflection.<br><br>1. <a data-href="Ardal" href="\religious-elements\deities\ardal.html" class="internal-link" target="_self" rel="noopener">Ardal</a> – God of the Land and Agriculture<br>
 - Domains: Earth, fertility, agriculture.<br>
 - Symbols: Plow, sheaf of wheat.<br>
@@ -418,7 +418,7 @@ Outside of Hroka, followers of this religion and Druids can be found throughout 
 <br>Martial Training: Symbolizing the constant strive for improvement and preparedness, this practice not only hones the body but also disciplines the mind.
 <br><br>"The Way of Garrosh" profoundly influences Orcish culture, guiding everything from governance and law to education and the arts. Justice systems in Orcish societies are built around the principles of balance, mirroring Garrosh’s domain of justice. Honor is a pervasive theme in Orcish art, celebrated in epic sagas and songs that recount the deeds of past heroes who embodied Garrosh’s ideals.<br>The teachings of Garrosh also affect Orcish diplomacy; leaders are expected to negotiate with honesty and strength, seeking always to reflect Garrosh's wisdom and fairness. Education for the young is steeped in these principles, with youths taught from an early age to value truth, bravery, and respect for the natural world.<br>This philosophy extends to the Orcish approach to assistance and intervention. True to Garrosh's teachings, Orcs believe in the sanctity of personal struggle as a path to growth. Offering or seeking help is a deeply personal affair, reserved for moments when an individual genuinely reaches out for support, acknowledging the shared journey of strength and vulnerability.<br>Orcs living in areas with many other ancestries are often perceived as somewhat rude or "standoffish", if not hostile, because they neither ask for help, nor offer help, even in times of crisis, and are offended if someone tries to help unsolicited. There are rumors that they steal children, because if an orc finds a child lost in the forest, they will feed it and - if they cannot find the parents of that child, raise and integrate it.<br>
 Children are an exception - for Orcs, all children are fundamentally the responsibility of the society/community, no matter whose child it is or whether the child is an Orc at all.<br>]]></description><link>religious-elements\religions-and-pantheons\the-way-of-garrosh.html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/The Way of Garrosh.md</guid><pubDate>Sat, 04 May 2024 10:45:51 GMT</pubDate></item><item><title><![CDATA[Deities]]></title><description><![CDATA[ 
- <br>Below is a handy table of all Deities<br><br>]]></description><link>religious-elements\deities.html</link><guid isPermaLink="false">Religious Elements/Deities.md</guid><pubDate>Sat, 04 May 2024 11:07:29 GMT</pubDate></item><item><title><![CDATA[Time and the Calendar]]></title><description><![CDATA[ 
+ <br>Below is a handy table of all Deities<br><br>]]></description><link>religious-elements\deities.html</link><guid isPermaLink="false">Religious Elements/Deities.md</guid><pubDate>Sat, 04 May 2024 13:04:05 GMT</pubDate></item><item><title><![CDATA[Time and the Calendar]]></title><description><![CDATA[ 
  <br><br>A single day on Caitha is roughly the same length as one on Earth. Time is being tracked throughout the day using a combination of sun-positioning, stable candles, water clocks, other mechanical or magical means and - depending on where you live - even using the weather.<br>
 Mechanical clocks are technically available, though scarce, not very practical, and incredibly expensive.<br><br>The most widely adapted and established Calendar in Caitha is the <a data-href="Druidic Calendar" href="\Druidic Calendar" class="internal-link" target="_self" rel="noopener">Druidic Calendar</a> - a lunar calendar based on the moon phases of two out of the three <a data-href="Moons" href="\Moons" class="internal-link" target="_self" rel="noopener">Moons</a> of Caitha, Elydd, Nevi and Yova, developed by Druids in today's <a data-href="Ilora" href="\Ilora" class="internal-link" target="_self" rel="noopener">Ilora</a> based on their observance of the night sky and the seasons.<br>
 This Calendar was later adopted and spread through the world through trade and politics by the <a data-tooltip-position="top" aria-label="Palyra" data-href="Palyra" href="\Palyra" class="internal-link" target="_self" rel="noopener">Palyran Empire</a> during the <a data-href="Era of Legends" href="\timelines\era-of-legends.html" class="internal-link" target="_self" rel="noopener">Era of Legends</a>. The beginning of this calendar is marked by the <a data-tooltip-position="top" aria-label="The Druidic Sacrifice" data-href="The Druidic Sacrifice" href="\historical-elements\legends-and-tales\the-druidic-sacrifice.html" class="internal-link" target="_self" rel="noopener">Druidic Sacrifice</a>.<br><br>The week is made up of 8 days and based on the blue moon Nevi, which takes 16 days for a full cycle. Every week starts on either a full moon or a new moon on Moonday and goes over firsday, seconday, thirday, fourday, fiveday, sixday, and sevenday.<br><br>A Month on Caitha is made up of 37 days and is based on the white moon Elydd, which takes a full 74 days for a full cycle.  Each new moon for Elydd roughly marks the beginning of a new season.<br>First Bloom<br>
