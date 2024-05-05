@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 04 May 2024 13:27:01 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 04 May 2024 13:26:57 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Appearance]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Long Story]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>A Long Story</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 05 May 2024 13:15:23 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 05 May 2024 13:15:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Appearance]]></title><description><![CDATA[ 
  <br>The Dwarves of Caitha are widely credited with creating the first unified currency in the world, laying the foundation for the economy for centuries to come.<br>
 The Dwarven Crown, commonly referred to as just "Crown", the most enduring symbol of trade and wealth. These hexagonal coins, produced in the golden halls of <a data-href="Dhartahl" href="\Dhartahl" class="internal-link" target="_self" rel="noopener">Dhartahl</a> have long been the predominant currency used throughout the diverse regions of Caitha.<br><br>Crowns minted in the forges of Dhartahl are hexagonal with a hexagonal hole in the middle. They are approximately 3.5 centimeters in diameter, and have a 5 mm thick border with fine stripes in the middle. Many coins are simple, but some of the golden coins have a symbol printed on them to commemorate an event or important person.<br>
 <img alt="goldencrown.png" src="\lib\media\goldencrown.png"><br><br>The copper crown (CC), the silver crown (SC) and the golden crown (GC) are the primary denominations of this currency. 10 Copper Crowns make a silver crown, and 10 silver crowns make a golden crown.<br>
@@ -224,7 +224,20 @@ Favoured Weapon: Dagger<br>
 Abilities: Wisdom, Charisma<br>
 Skill: Medicine<br>
 Other Names: Mother
-]]></description><link>religious-elements\deities\brìgh.html</link><guid isPermaLink="false">Religious Elements/Deities/Brìgh.md</guid><pubDate>Sat, 04 May 2024 09:54:18 GMT</pubDate><enclosure url="lib\media\brigh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\brigh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Elydd]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\brìgh.html</link><guid isPermaLink="false">Religious Elements/Deities/Brìgh.md</guid><pubDate>Sat, 04 May 2024 09:54:18 GMT</pubDate><enclosure url="lib\media\brigh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\brigh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dharohem]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\dharohem.webp">
+
+Domains: Wealth, Envy<br>
+Symbols: A scale balancing a gold and silver coin<br>
+Edict: Seek personal wealth to improve oneself<br>
+Anathema: Let greed lead to your downfall or allow jealousy to guide actions.<br>
+Favoured Weapon: Dagger<br>
+Abilities: Dexterity, Charisma<br>
+Skill: Thievery<br>
+Other Names:
+]]></description><link>religious-elements\deities\dharohem.html</link><guid isPermaLink="false">Religious Elements/Deities/Dharohem.md</guid><pubDate>Sun, 05 May 2024 12:57:50 GMT</pubDate><enclosure url="lib\media\dharohem.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\dharohem.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Elydd]]></title><description><![CDATA[ 
  <br>Deity
 
 <img alt="cover" src="\lib\media\elydd.webp">
@@ -263,7 +276,20 @@ Favoured Weapon: Greatsword<br>
 Abilities: Strength, Wisdom<br>
 Skill: Intimidation<br>
 Other Names: /
-]]></description><link>religious-elements\deities\garrosh.html</link><guid isPermaLink="false">Religious Elements/Deities/Garrosh.md</guid><pubDate>Sat, 04 May 2024 13:26:41 GMT</pubDate><enclosure url="lib\media\garrosh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\garrosh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lìosa]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\garrosh.html</link><guid isPermaLink="false">Religious Elements/Deities/Garrosh.md</guid><pubDate>Sat, 04 May 2024 13:26:41 GMT</pubDate><enclosure url="lib\media\garrosh.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\garrosh.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Jaevar]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\jaevar.webp">
+
+Domains: War, Healing<br>
+Symbols: A crossed battleaxe and shield<br>
+Edict: Defend the weak and heal the wounded; fight with honor and courage<br>
+Anathema: Shun those in need of help, or kill another Dwarf<br>
+Favoured Weapon: Battleaxe<br>
+Abilities: Strength, Charisma<br>
+Skill: Medicine<br>
+Other Names: /
+]]></description><link>religious-elements\deities\jaevar.html</link><guid isPermaLink="false">Religious Elements/Deities/Jaevar.md</guid><pubDate>Sun, 05 May 2024 11:15:21 GMT</pubDate><enclosure url="lib\media\jaevar.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\jaevar.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lìosa]]></title><description><![CDATA[ 
  <br>Deity
 
 <img alt="cover" src="\lib\media\liosa.webp">
@@ -276,7 +302,20 @@ Favoured Weapon: Scythe<br>
 Abilities: Wisdom, Charisma<br>
 Skill: Religion<br>
 Other Names: /
-]]></description><link>religious-elements\deities\lìosa.html</link><guid isPermaLink="false">Religious Elements/Deities/Lìosa.md</guid><pubDate>Sat, 04 May 2024 13:14:22 GMT</pubDate><enclosure url="lib\media\liosa.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\liosa.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nevi]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\lìosa.html</link><guid isPermaLink="false">Religious Elements/Deities/Lìosa.md</guid><pubDate>Sat, 04 May 2024 13:14:22 GMT</pubDate><enclosure url="lib\media\liosa.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\liosa.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Maerun]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\maerun.webp">
+
+Domains: Sky, Day, Night, Wind and Weather<br>
+Symbols: A cloud partially covering the sun<br>
+Edict: Protect and respect the harmony of nature's cycles and the weather<br>
+Anathema: Disrupt natural cycles or spread chaos through weather manipulation<br>
+Favoured Weapon: Staff<br>
+Abilities: Intelligence, Wisdom<br>
+Skill: Survival<br>
+Other Names: /
+]]></description><link>religious-elements\deities\maerun.html</link><guid isPermaLink="false">Religious Elements/Deities/Maerun.md</guid><pubDate>Sun, 05 May 2024 11:30:05 GMT</pubDate><enclosure url="lib\media\maerun.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\maerun.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nevi]]></title><description><![CDATA[ 
  <br>Deity
 
 <img alt="cover" src="\lib\media\nevi.webp">
@@ -289,7 +328,46 @@ Favoured Weapon: Whip<br>
 Abilities: Wisdom, Charisma<br>
 Skill: Insight<br>
 Other Names:
-]]></description><link>religious-elements\deities\nevi.html</link><guid isPermaLink="false">Religious Elements/Deities/Nevi.md</guid><pubDate>Sat, 04 May 2024 13:20:13 GMT</pubDate><enclosure url="lib\media\nevi.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\nevi.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sìleas]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\nevi.html</link><guid isPermaLink="false">Religious Elements/Deities/Nevi.md</guid><pubDate>Sat, 04 May 2024 13:20:13 GMT</pubDate><enclosure url="lib\media\nevi.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\nevi.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Odarr]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\odarr.webp">
+
+Domains: Minerals, Gems<br>
+Symbols: Two crossed pickaxes<br>
+Edict: Cherish the wealth of the earth, using it to craft and enrich lives<br>
+Anathema: Waste or hoard the earth's bounty or exploit it greedily<br>
+Favoured Weapon: Pick<br>
+Abilities: Constitution, Intelligence<br>
+Skill: Crafting<br>
+Other Names: /
+]]></description><link>religious-elements\deities\odarr.html</link><guid isPermaLink="false">Religious Elements/Deities/Odarr.md</guid><pubDate>Sun, 05 May 2024 11:21:51 GMT</pubDate><enclosure url="lib\media\odarr.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\odarr.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Reigahn]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\reigahn.webp">
+
+Domains: Art, Mountains, Mining, Stonecraft, Creation<br>
+Symbols: A mountain peak crowned with a forge hammer<br>
+Edict: Create and uphold structures, both physical and societal, that endure the test of time<br>
+Anathema: Destroy or deface creations or natural formations without cause<br>
+Favoured Weapon: Warhammer<br>
+Abilities: Strength, Wisdom<br>
+Skill: Crafting<br>
+Other Names: Mountain Father
+]]></description><link>religious-elements\deities\reigahn.html</link><guid isPermaLink="false">Religious Elements/Deities/Reigahn.md</guid><pubDate>Sun, 05 May 2024 11:11:30 GMT</pubDate><enclosure url="lib\media\reigahn.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\reigahn.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Rysja]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\rysja.webp">
+
+Domains: Rivers, Seas, Lakes, Flow of Life<br>
+Symbols: A trio of wavy lines<br>
+Edict: Preserve and cherish water sources and the life they sustain<br>
+Anathema: Pollute or needlessly exhaust water resources<br>
+Favoured Weapon: Spear<br>
+Abilities: Constitution, Wisdom<br>
+Skill: Athletics<br>
+Other Names:
+]]></description><link>religious-elements\deities\rysja.html</link><guid isPermaLink="false">Religious Elements/Deities/Rysja.md</guid><pubDate>Sun, 05 May 2024 11:34:29 GMT</pubDate><enclosure url="lib\media\rysja.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\rysja.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sìleas]]></title><description><![CDATA[ 
  <br>Deity
 
 <img alt="cover" src="\lib\media\sileas.webp">
@@ -315,7 +393,20 @@ Favoured Weapon: Trident<br>
 Abilities: Strength, Dexterity<br>
 Skill: Sailing Lore<br>
 Other Names: /
-]]></description><link>religious-elements\deities\torran.html</link><guid isPermaLink="false">Religious Elements/Deities/Torran.md</guid><pubDate>Sat, 04 May 2024 09:53:53 GMT</pubDate><enclosure url="lib\media\torran.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\torran.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Yova]]></title><description><![CDATA[ 
+]]></description><link>religious-elements\deities\torran.html</link><guid isPermaLink="false">Religious Elements/Deities/Torran.md</guid><pubDate>Sat, 04 May 2024 09:53:53 GMT</pubDate><enclosure url="lib\media\torran.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\torran.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tyre]]></title><description><![CDATA[ 
+ <br>Deity
+
+<img alt="cover" src="\lib\media\tyre.webp">
+
+Domains: Underworld, Death<br>
+Symbols: An upright scythe<br>
+Edict: Honor the dead and your ancestors through rituals and respect their transition to the afterlife<br>
+Anathema: Murdering a fellow Dwarf<br>
+Favoured Weapon: Scythe<br>
+Abilities: Wisdom, Charisma<br>
+Skill: Underworld Lore<br>
+Other Names: Death
+]]></description><link>religious-elements\deities\tyre.html</link><guid isPermaLink="false">Religious Elements/Deities/Tyre.md</guid><pubDate>Sun, 05 May 2024 12:51:39 GMT</pubDate><enclosure url="lib\media\tyre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\tyre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Yova]]></title><description><![CDATA[ 
  <br>Deity
 
 <img alt="cover" src="\lib\media\yova.webp">
@@ -405,7 +496,70 @@ Other Names: /
 <br>Rituals and Sacrifices: Seasonal festivals are accompanied by offerings of crops, crafts, and occasionally livestock to curry favor with the deities or to thank them for their blessings.
 <br><br>Aoisghleann shapes much of Hrokan culture, from laws and social customs to art and architecture. Temples often feature natural motifs and symbols of the deities, reflecting the deep spiritual connection to the land. The religion also influences the Hrokans' renowned craftsmanship, particularly in items used in worship and daily life that honor their gods.<br>
 In Hroka, while not as important as it used to be, Aoisghleann is not just a faith but a way of life, integrated into the daily existence of its people and providing a foundation for their identity and values. Through this faith, the Hrokans find not only a spiritual guide but also a deep, enduring connection to the very essence of their world.<br>
-Outside of Hroka, followers of this religion and Druids can be found throughout the entire world. Different interpretations may be here and there, but for every Druid, a visit to Hroka is a must.<br><br>The moons themselves play a significant role in the religious practices associated with the three Deities Yova, Nevi and Elydd. Each full moon is a time of heightened worship and ritual for the deity it represents. The alignment of these moons, especially when all three are full, is considered an extremely auspicious event, leading to festivals and significant religious gatherings. This trio adds a dynamic layer to the Aoisghleann pantheon, connecting the cosmic movements directly with the spiritual life of the people.]]></description><link>religious-elements\religions-and-pantheons\aoisghleann-(hrokan-pantheon).html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/Aoisghleann (Hrokan Pantheon).md</guid><pubDate>Sat, 04 May 2024 09:46:27 GMT</pubDate></item><item><title><![CDATA[The Way of Garrosh]]></title><description><![CDATA[ 
+Outside of Hroka, followers of this religion and Druids can be found throughout the entire world. Different interpretations may be here and there, but for every Druid, a visit to Hroka is a must.<br><br>The moons themselves play a significant role in the religious practices associated with the three Deities Yova, Nevi and Elydd. Each full moon is a time of heightened worship and ritual for the deity it represents. The alignment of these moons, especially when all three are full, is considered an extremely auspicious event, leading to festivals and significant religious gatherings. This trio adds a dynamic layer to the Aoisghleann pantheon, connecting the cosmic movements directly with the spiritual life of the people.]]></description><link>religious-elements\religions-and-pantheons\aoisghleann-(hrokan-pantheon).html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/Aoisghleann (Hrokan Pantheon).md</guid><pubDate>Sat, 04 May 2024 09:46:27 GMT</pubDate></item><item><title><![CDATA[Dwarvish Mythology]]></title><description><![CDATA[ 
+ <br><br><br>Religious dwarves believe in honoring their gods through acts that reflect the domains of their chosen deity. Their spirituality is heavily intertwined with daily life, emphasizing craftsmanship, bravery, and the stewardship of nature.<br><br>1. <a data-href="Reigahn" href="\religious-elements\deities\reigahn.html" class="internal-link" target="_self" rel="noopener">Reigahn</a> – God of Art, Mountains, Mining<br>
+- Domains: Art, Mountains, Mining, Stonecraft, Creation<br>
+- Symbols: A mountain peak crowned with a forge hammer<br>
+- Edicts: Create and uphold structures, both physical and societal, that endure the test of time<br>
+- Anathemas: Destroy or deface creations or natural formations without cause<br>
+- Favored Weapon: Warhammer<br>
+- Abilities: Strength, Wisdom<br>
+- Skills: Crafting<br>
+- Depicted as a middle-aged dwarf sculpting stone, Reigahn embodies creation and craftsmanship. He is revered as the father of the dwarves and the creator of their mountainous home.<br>
+2. <a data-href="Jaevar" href="\religious-elements\deities\jaevar.html" class="internal-link" target="_self" rel="noopener">Jaevar</a> – Goddess of Battle and Healing<br>
+- Domains: War, Healing<br>
+- Symbols: A crossed battleaxe and shield<br>
+- Edicts: Defend the weak and heal the wounded; fight with honor and courage<br>
+- Anathemas: - Shun those in need of help, or kill another Dwarf<br>
+- Favored Weapon: Battleaxe<br>
+- Abilities: Strength, Charisma<br>
+- Skills: Medicine<br>
+- Jaevar is the fierce and protective mother of dwarves, depicted in full armor with her battleaxe and shield. She symbolizes the dual nature of battle and healing, embodying strength and care.<br>
+3. <a data-href="Odarr" href="\religious-elements\deities\odarr.html" class="internal-link" target="_self" rel="noopener">Odarr</a> – God of Minerals and Gems<br>
+- Domains: Minerals, Gems<br>
+- Symbols: Two crossed pickaxes<br>
+- Edicts: Cherish the wealth of the earth, using it to craft and enrich lives<br>
+- Anathemas: Waste or hoard the earth's bounty or exploit it greedily<br>
+- Favored Weapon: Pick<br>
+- Abilities: Constitution, Intelligence<br>
+- Skills: Crafting<br>
+- The provider of the earth's riches, Odarr is depicted as a skilled blacksmith. He represents the bounty beneath the earth, urging his followers to use resources wisely and craft them into objects of beauty and utility.<br>
+4. <a data-href="Maerun" href="\religious-elements\deities\maerun.html" class="internal-link" target="_self" rel="noopener">Maerun</a> – Goddess of the Skies<br>
+- Domains: Sky, Day, Night, Wind and Weather<br>
+- Symbols: A cloud partially covering the sun<br>
+- Edicts: Protect and respect the harmony of nature's cycles and the weather.<br>
+- Anathemas: Disrupt natural cycles or spread chaos through weather manipulation.<br>
+- Favored Weapon: Staff<br>
+- Abilities: Intelligence, Wisdom<br>
+- Skills: Survival<br>
+- Maerun controls the skies and the weather, depicted as a majestic dwarf among the clouds. She is a protector of travelers and farmers, guiding them with her wisdom over the cycles of day and night.<br>
+5. <a data-href="Rysja" href="\religious-elements\deities\rysja.html" class="internal-link" target="_self" rel="noopener">Rysja</a> – Goddess of Rivers, Seas and Lakes<br>
+- Domains: Rivers, Seas, Lakes, Flow of Life<br>
+- Symbols: A trio of wavy lines<br>
+- Edicts: Preserve and cherish water sources and the life they sustain.<br>
+- Anathemas: Pollute or needlessly exhaust water resources<br>
+- Favored Weapon: Spear<br>
+- Abilities: Constitution, Wisdom<br>
+- Skills: Athletics<br>
+- Rysja is the life-giver of waters, often shown as a nurturing figure within her aquatic realms. She ensures the flow of life continues, nurturing all that depends on water.<br>
+6. <a data-href="Tyre" href="\religious-elements\deities\tyre.html" class="internal-link" target="_self" rel="noopener">Tyre</a> – God of Death<br>
+- Domains: Underworld, Death<br>
+- Symbols: An upright scythe<br>
+- Edicts: Honor the dead through rituals and respect their transition to the afterlife<br>
+- Anathemas: Murdering a fellow Dwarf<br>
+- Favored Weapon: Scythe<br>
+- Abilities: Wisdom, Charisma<br>
+- Skills: Underworld Lore<br>
+- The solemn guide of souls, Tyre is depicted as a hooded dwarf, ushering the deceased to the afterlife. He comforts those unready to pass and ensures their safe transition, embodying the inevitability and peace of death.<br>
+7. <a data-href="Dharohem" href="\religious-elements\deities\dharohem.html" class="internal-link" target="_self" rel="noopener">Dharohem</a> – God of Gold and Silver<br>
+- Domains: - Wealth, Envy<br>
+- Symbols: A scale balancing a gold coin and a silver coin<br>
+- Edicts: Seek personal wealth to improve oneself<br>
+- Anathemas: Let greed lead to your downfall or allow jealousy to guide actions.<br>
+- Favored Weapon: Dagger<br>
+- Abilities: Dexterity, Charisma<br>
+- Skills: Thievery<br>
+- Son of Odarr, Dharohem personifies the darker lure of wealth. Depicted with opulent attire, he reminds the dwarves of the thin line between prosperity and greed.<br><br>Dwarves engage in various rituals to honor their gods, from crafting beautiful artifacts as offerings to Reigahn, to solemn rites of passage overseen by Tyre. Their festivals often align with natural cycles, such as solstices or river tides, reflecting their deep connection to the earth's rhythms.<br><br>The mythology shapes every aspect of dwarvish culture, from their robust architectural styles to their community ethics. Stories of the gods are embedded in every home, taught from a young age, and serve as moral guides and educational tales. These stories not only entertain but also instruct on living a life aligned with dwarvish values.<br><br>In the lore of the dwarves, the world began with the god <a data-href="Reigahn" href="\religious-elements\deities\reigahn.html" class="internal-link" target="_self" rel="noopener">Reigahn</a>, who first shaped the mountains of Caitha. Not content with mere landscapes, Reigahn infused a stone with the embers of life, casting it into the mountains to create the first dwarves. He charged them with delving into the mountains to unearth and craft its hidden treasures, marking the beginning of dwarvish civilization.<br>]]></description><link>religious-elements\religions-and-pantheons\dwarvish-mythology.html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/Dwarvish Mythology.md</guid><pubDate>Sun, 05 May 2024 13:03:59 GMT</pubDate></item><item><title><![CDATA[The Way of Garrosh]]></title><description><![CDATA[ 
  <br><br><br>At the heart of the way of <a data-href="Garrosh" href="\religious-elements\deities\garrosh.html" class="internal-link" target="_self" rel="noopener">Garrosh</a> is the conviction, that personal growth is achieved through adversity. Garrosh teaches that strength of character and Wisdom are forged in life's challenges. Orcs inspired by Garrosh face their trials with courage, believing that each struggle is an opportunity for personal development and spiritual enlightenment. This philosophy fosters a community where resilience is revered, and honor is upheld through deeds of bravery and integrity.<br><br>Garrosh<br>
 - Domains: Justice, Honor, Personal Growth, Wisdom<br>
 - Symbols: A balanced scale<br>
@@ -418,7 +572,7 @@ Outside of Hroka, followers of this religion and Druids can be found throughout 
 <br>Martial Training: Symbolizing the constant strive for improvement and preparedness, this practice not only hones the body but also disciplines the mind.
 <br><br>"The Way of Garrosh" profoundly influences Orcish culture, guiding everything from governance and law to education and the arts. Justice systems in Orcish societies are built around the principles of balance, mirroring Garrosh’s domain of justice. Honor is a pervasive theme in Orcish art, celebrated in epic sagas and songs that recount the deeds of past heroes who embodied Garrosh’s ideals.<br>The teachings of Garrosh also affect Orcish diplomacy; leaders are expected to negotiate with honesty and strength, seeking always to reflect Garrosh's wisdom and fairness. Education for the young is steeped in these principles, with youths taught from an early age to value truth, bravery, and respect for the natural world.<br>This philosophy extends to the Orcish approach to assistance and intervention. True to Garrosh's teachings, Orcs believe in the sanctity of personal struggle as a path to growth. Offering or seeking help is a deeply personal affair, reserved for moments when an individual genuinely reaches out for support, acknowledging the shared journey of strength and vulnerability.<br>Orcs living in areas with many other ancestries are often perceived as somewhat rude or "standoffish", if not hostile, because they neither ask for help, nor offer help, even in times of crisis, and are offended if someone tries to help unsolicited. There are rumors that they steal children, because if an orc finds a child lost in the forest, they will feed it and - if they cannot find the parents of that child, raise and integrate it.<br>
 Children are an exception - for Orcs, all children are fundamentally the responsibility of the society/community, no matter whose child it is or whether the child is an Orc at all.<br>]]></description><link>religious-elements\religions-and-pantheons\the-way-of-garrosh.html</link><guid isPermaLink="false">Religious Elements/Religions and Pantheons/The Way of Garrosh.md</guid><pubDate>Sat, 04 May 2024 10:45:51 GMT</pubDate></item><item><title><![CDATA[Deities]]></title><description><![CDATA[ 
- <br>Below is a handy table of all Deities<br><br>]]></description><link>religious-elements\deities.html</link><guid isPermaLink="false">Religious Elements/Deities.md</guid><pubDate>Sat, 04 May 2024 13:04:05 GMT</pubDate></item><item><title><![CDATA[Time and the Calendar]]></title><description><![CDATA[ 
+ <br>Below is a handy table of all Deities<br><br>]]></description><link>religious-elements\deities.html</link><guid isPermaLink="false">Religious Elements/Deities.md</guid><pubDate>Sun, 05 May 2024 13:14:47 GMT</pubDate></item><item><title><![CDATA[Time and the Calendar]]></title><description><![CDATA[ 
  <br><br>A single day on Caitha is roughly the same length as one on Earth. Time is being tracked throughout the day using a combination of sun-positioning, stable candles, water clocks, other mechanical or magical means and - depending on where you live - even using the weather.<br>
 Mechanical clocks are technically available, though scarce, not very practical, and incredibly expensive.<br><br>The most widely adapted and established Calendar in Caitha is the <a data-href="Druidic Calendar" href="\Druidic Calendar" class="internal-link" target="_self" rel="noopener">Druidic Calendar</a> - a lunar calendar based on the moon phases of two out of the three <a data-href="Moons" href="\Moons" class="internal-link" target="_self" rel="noopener">Moons</a> of Caitha, Elydd, Nevi and Yova, developed by Druids in today's <a data-href="Ilora" href="\Ilora" class="internal-link" target="_self" rel="noopener">Ilora</a> based on their observance of the night sky and the seasons.<br>
 This Calendar was later adopted and spread through the world through trade and politics by the <a data-tooltip-position="top" aria-label="Palyra" data-href="Palyra" href="\Palyra" class="internal-link" target="_self" rel="noopener">Palyran Empire</a> during the <a data-href="Era of Legends" href="\timelines\era-of-legends.html" class="internal-link" target="_self" rel="noopener">Era of Legends</a>. The beginning of this calendar is marked by the <a data-tooltip-position="top" aria-label="The Druidic Sacrifice" data-href="The Druidic Sacrifice" href="\historical-elements\legends-and-tales\the-druidic-sacrifice.html" class="internal-link" target="_self" rel="noopener">Druidic Sacrifice</a>.<br><br>The week is made up of 8 days and based on the blue moon Nevi, which takes 16 days for a full cycle. Every week starts on either a full moon or a new moon on Moonday and goes over firsday, seconday, thirday, fourday, fiveday, sixday, and sevenday.<br><br>A Month on Caitha is made up of 37 days and is based on the white moon Elydd, which takes a full 74 days for a full cycle.  Each new moon for Elydd roughly marks the beginning of a new season.<br>First Bloom<br>
